@@ -1,6 +1,7 @@
 # Travelling salesperson problem - Genetic Algorithm
  In this project we intend to solve the classic traveling salesperson problem using genetic algorthim.
  
+ ## Refer Project Description for detailed information about the project
  
    
 ## Files used
