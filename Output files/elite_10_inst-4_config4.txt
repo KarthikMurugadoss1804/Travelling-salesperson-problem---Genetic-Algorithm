@@ -1,0 +1,2739 @@
+Trial run1:
+Time: 2019-10-22 10:37:57.004721
+Best initial sol:  22089656.782984156
+Counter resetting at iteration: 1
+iteration:  1 best:  21633298.57245301
+Counter resetting at iteration: 0
+iteration:  1 best:  21176830.578720555
+Counter resetting at iteration: 7
+iteration:  8 best:  20836979.31267056
+Counter resetting at iteration: 2
+iteration:  10 best:  20625245.603318397
+Counter resetting at iteration: 3
+iteration:  13 best:  20328491.274862453
+Counter resetting at iteration: 10
+iteration:  23 best:  20082395.142777555
+Counter resetting at iteration: 1
+iteration:  24 best:  19924405.513364986
+Counter resetting at iteration: 2
+iteration:  26 best:  19684017.57270358
+Counter resetting at iteration: 2
+iteration:  28 best:  19634968.608355954
+Counter resetting at iteration: 4
+iteration:  32 best:  19631722.884681992
+Counter resetting at iteration: 1
+iteration:  33 best:  19549240.851515748
+Counter resetting at iteration: 2
+iteration:  35 best:  19486543.99947612
+Counter resetting at iteration: 1
+iteration:  36 best:  19482876.52448705
+Counter resetting at iteration: 1
+iteration:  37 best:  19397190.34357647
+Counter resetting at iteration: 1
+iteration:  38 best:  19351457.44594671
+Counter resetting at iteration: 0
+iteration:  38 best:  19194259.880053114
+Counter resetting at iteration: 1
+iteration:  39 best:  19017285.451801088
+Counter resetting at iteration: 2
+iteration:  41 best:  18977252.974556692
+Counter resetting at iteration: 1
+iteration:  42 best:  18936673.5014361
+Counter resetting at iteration: 0
+iteration:  42 best:  18935160.805126425
+Counter resetting at iteration: 1
+iteration:  43 best:  18806443.61784883
+Counter resetting at iteration: 0
+iteration:  43 best:  18649190.787269153
+Counter resetting at iteration: 2
+iteration:  45 best:  18516808.294725407
+Counter resetting at iteration: 0
+iteration:  45 best:  18445344.631969064
+Counter resetting at iteration: 5
+iteration:  50 best:  18201834.695110776
+Counter resetting at iteration: 1
+iteration:  51 best:  18184044.260382958
+Counter resetting at iteration: 1
+iteration:  52 best:  18119316.142166846
+Counter resetting at iteration: 2
+iteration:  54 best:  17999615.567266118
+Counter resetting at iteration: 1
+iteration:  55 best:  17987928.24674143
+Counter resetting at iteration: 2
+iteration:  57 best:  17972217.051729113
+Counter resetting at iteration: 1
+iteration:  58 best:  17837085.99266468
+Counter resetting at iteration: 0
+iteration:  58 best:  17826902.36934765
+Counter resetting at iteration: 1
+iteration:  59 best:  17681685.16751838
+Counter resetting at iteration: 2
+iteration:  61 best:  17579822.783847664
+Counter resetting at iteration: 3
+iteration:  64 best:  17557752.240337003
+Counter resetting at iteration: 0
+iteration:  64 best:  17532968.007539622
+Counter resetting at iteration: 1
+iteration:  65 best:  17493464.972270507
+Counter resetting at iteration: 1
+iteration:  66 best:  17401345.06746201
+Counter resetting at iteration: 1
+iteration:  67 best:  17368774.56506399
+Counter resetting at iteration: 1
+iteration:  68 best:  17319341.370420676
+Counter resetting at iteration: 1
+iteration:  69 best:  17307340.804015037
+Counter resetting at iteration: 0
+iteration:  69 best:  17188407.35849193
+Counter resetting at iteration: 1
+iteration:  70 best:  16968552.0814354
+Counter resetting at iteration: 3
+iteration:  73 best:  16773975.57209698
+Counter resetting at iteration: 3
+iteration:  76 best:  16758189.642023968
+Counter resetting at iteration: 0
+iteration:  76 best:  16755414.568562929
+Counter resetting at iteration: 3
+iteration:  79 best:  16586045.049885951
+Counter resetting at iteration: 4
+iteration:  83 best:  16580749.822139647
+Counter resetting at iteration: 1
+iteration:  84 best:  16561198.60203996
+Counter resetting at iteration: 0
+iteration:  84 best:  16554987.324468907
+Counter resetting at iteration: 1
+iteration:  85 best:  16475090.99787936
+Counter resetting at iteration: 1
+iteration:  86 best:  16419365.468935177
+Counter resetting at iteration: 1
+iteration:  87 best:  16416662.805145204
+Counter resetting at iteration: 1
+iteration:  88 best:  16399299.715086447
+Counter resetting at iteration: 2
+iteration:  90 best:  16372836.749368027
+Counter resetting at iteration: 2
+iteration:  92 best:  16343581.724106938
+Counter resetting at iteration: 0
+iteration:  92 best:  16264570.411342544
+Counter resetting at iteration: 1
+iteration:  93 best:  16212952.83270663
+Counter resetting at iteration: 3
+iteration:  96 best:  16119437.230986128
+Counter resetting at iteration: 3
+iteration:  99 best:  16006647.60980587
+Counter resetting at iteration: 3
+iteration:  102 best:  15993559.777437614
+Counter resetting at iteration: 0
+iteration:  102 best:  15943880.7347411
+Counter resetting at iteration: 1
+iteration:  103 best:  15925063.333865946
+Counter resetting at iteration: 1
+iteration:  104 best:  15911248.658865912
+Counter resetting at iteration: 0
+iteration:  104 best:  15909912.116260707
+Counter resetting at iteration: 1
+iteration:  105 best:  15721518.546779195
+Counter resetting at iteration: 1
+iteration:  106 best:  15688859.839776332
+Counter resetting at iteration: 2
+iteration:  108 best:  15637365.77568602
+Counter resetting at iteration: 1
+iteration:  109 best:  15598164.19735881
+Counter resetting at iteration: 1
+iteration:  110 best:  15592737.06660516
+Counter resetting at iteration: 1
+iteration:  111 best:  15512016.488481121
+Counter resetting at iteration: 4
+iteration:  115 best:  15505000.108899139
+Counter resetting at iteration: 0
+iteration:  115 best:  15495369.290626056
+Counter resetting at iteration: 1
+iteration:  116 best:  15454301.496444719
+Counter resetting at iteration: 1
+iteration:  117 best:  15325815.0153579
+Counter resetting at iteration: 2
+iteration:  119 best:  15292420.641198881
+Counter resetting at iteration: 2
+iteration:  121 best:  15287148.68383109
+Counter resetting at iteration: 0
+iteration:  121 best:  15216734.128831293
+Counter resetting at iteration: 2
+iteration:  123 best:  15150917.649408275
+Counter resetting at iteration: 1
+iteration:  124 best:  15101015.235514427
+Counter resetting at iteration: 2
+iteration:  126 best:  15079086.882324316
+Counter resetting at iteration: 4
+iteration:  130 best:  15026183.079014165
+Counter resetting at iteration: 0
+iteration:  130 best:  14984257.514558602
+Counter resetting at iteration: 5
+iteration:  135 best:  14917187.333187379
+Counter resetting at iteration: 0
+iteration:  135 best:  14900360.472019777
+Counter resetting at iteration: 6
+iteration:  141 best:  14877507.996676397
+Counter resetting at iteration: 0
+iteration:  141 best:  14863022.097163316
+Counter resetting at iteration: 1
+iteration:  142 best:  14860942.28957933
+Counter resetting at iteration: 0
+iteration:  142 best:  14816293.465116119
+Counter resetting at iteration: 4
+iteration:  146 best:  14815389.463919293
+Counter resetting at iteration: 2
+iteration:  148 best:  14802101.76488732
+Counter resetting at iteration: 3
+iteration:  151 best:  14800642.41033568
+Counter resetting at iteration: 1
+iteration:  152 best:  14780173.411697205
+Counter resetting at iteration: 1
+iteration:  153 best:  14776197.002050418
+Counter resetting at iteration: 0
+iteration:  153 best:  14756548.939227283
+Counter resetting at iteration: 2
+iteration:  155 best:  14741801.88564367
+Counter resetting at iteration: 1
+iteration:  156 best:  14740016.543611297
+Counter resetting at iteration: 3
+iteration:  159 best:  14725269.490027681
+Counter resetting at iteration: 1
+iteration:  160 best:  14720368.480788162
+Counter resetting at iteration: 2
+iteration:  162 best:  14705621.42720455
+Counter resetting at iteration: 0
+iteration:  162 best:  14685397.687818203
+Counter resetting at iteration: 1
+iteration:  163 best:  14649217.229379082
+Counter resetting at iteration: 6
+iteration:  169 best:  14642140.355612839
+Counter resetting at iteration: 0
+iteration:  169 best:  14634470.175795466
+Counter resetting at iteration: 2
+iteration:  171 best:  14597011.05663752
+Counter resetting at iteration: 1
+iteration:  172 best:  14576360.36862806
+Counter resetting at iteration: 3
+iteration:  175 best:  14576254.635270538
+Counter resetting at iteration: 1
+iteration:  176 best:  14538901.249470115
+Counter resetting at iteration: 1
+iteration:  177 best:  14530498.562757762
+Counter resetting at iteration: 1
+iteration:  178 best:  14512879.297036353
+Counter resetting at iteration: 1
+iteration:  179 best:  14348785.201594112
+Counter resetting at iteration: 5
+iteration:  184 best:  14334383.617983144
+Counter resetting at iteration: 0
+iteration:  184 best:  14319636.564399531
+Counter resetting at iteration: 2
+iteration:  186 best:  14275822.607485564
+Counter resetting at iteration: 0
+iteration:  186 best:  14178081.385230044
+Counter resetting at iteration: 6
+iteration:  192 best:  14136536.76756869
+Counter resetting at iteration: 1
+iteration:  193 best:  14105118.7911215
+Counter resetting at iteration: 0
+iteration:  193 best:  14083570.420643127
+Counter resetting at iteration: 2
+iteration:  195 best:  14064231.046049567
+Counter resetting at iteration: 0
+iteration:  195 best:  14040370.198945163
+Counter resetting at iteration: 1
+iteration:  196 best:  14026115.054302197
+Counter resetting at iteration: 0
+iteration:  196 best:  13961366.46212586
+Counter resetting at iteration: 5
+iteration:  201 best:  13946619.408542247
+Counter resetting at iteration: 2
+iteration:  203 best:  13876919.228233317
+Counter resetting at iteration: 6
+iteration:  209 best:  13852197.896763556
+Counter resetting at iteration: 1
+iteration:  210 best:  13851434.909648845
+Counter resetting at iteration: 1
+iteration:  211 best:  13812542.652558515
+Counter resetting at iteration: 1
+iteration:  212 best:  13782500.115178214
+Counter resetting at iteration: 2
+iteration:  214 best:  13717751.523001878
+Counter resetting at iteration: 2
+iteration:  216 best:  13703004.469418265
+Counter resetting at iteration: 1
+iteration:  217 best:  13658212.479730763
+Counter resetting at iteration: 3
+iteration:  220 best:  13624810.497511404
+Counter resetting at iteration: 1
+iteration:  221 best:  13610063.443927791
+Counter resetting at iteration: 0
+iteration:  221 best:  13606284.800837675
+Counter resetting at iteration: 1
+iteration:  222 best:  13591537.747254062
+Counter resetting at iteration: 1
+iteration:  223 best:  13580018.507823901
+Counter resetting at iteration: 1
+iteration:  224 best:  13546745.75756656
+Counter resetting at iteration: 3
+iteration:  227 best:  13537126.024538394
+Counter resetting at iteration: 1
+iteration:  228 best:  13533347.381448278
+Counter resetting at iteration: 1
+iteration:  229 best:  13507081.088434504
+Counter resetting at iteration: 1
+iteration:  230 best:  13492334.034850892
+Counter resetting at iteration: 0
+iteration:  230 best:  13443528.783931863
+Counter resetting at iteration: 3
+iteration:  233 best:  13425003.087258134
+Counter resetting at iteration: 1
+iteration:  234 best:  13398736.79424436
+Counter resetting at iteration: 2
+iteration:  236 best:  13380211.097570632
+Counter resetting at iteration: 1
+iteration:  237 best:  13379685.412766702
+Counter resetting at iteration: 4
+iteration:  241 best:  13353419.119752927
+Counter resetting at iteration: 1
+iteration:  242 best:  13290955.17021536
+Counter resetting at iteration: 3
+iteration:  245 best:  13260760.1580453
+Counter resetting at iteration: 2
+iteration:  247 best:  13216821.905181462
+Counter resetting at iteration: 7
+iteration:  254 best:  13215234.371266536
+Counter resetting at iteration: 1
+iteration:  255 best:  13171296.118402697
+Counter resetting at iteration: 6
+iteration:  261 best:  13135383.003074467
+Counter resetting at iteration: 1
+iteration:  262 best:  13063015.471647665
+Counter resetting at iteration: 6
+iteration:  268 best:  13027102.356319435
+Counter resetting at iteration: 3
+iteration:  271 best:  13022502.115618879
+Counter resetting at iteration: 0
+iteration:  271 best:  13008174.25807748
+Counter resetting at iteration: 2
+iteration:  273 best:  13004536.11126028
+Counter resetting at iteration: 1
+iteration:  274 best:  12970309.09640736
+Counter resetting at iteration: 1
+iteration:  275 best:  12925376.126704693
+Counter resetting at iteration: 5
+iteration:  280 best:  12906448.028462738
+Counter resetting at iteration: 3
+iteration:  283 best:  12883881.783403581
+Counter resetting at iteration: 4
+iteration:  287 best:  12849761.874109268
+Counter resetting at iteration: 0
+iteration:  287 best:  12814262.069077423
+Counter resetting at iteration: 3
+iteration:  290 best:  12791695.824018268
+Counter resetting at iteration: 1
+iteration:  291 best:  12757575.914723953
+Counter resetting at iteration: 6
+iteration:  297 best:  12735009.669664798
+Counter resetting at iteration: 3
+iteration:  300 best:  12715144.940019209
+Counter resetting at iteration: 1
+iteration:  301 best:  12669492.921396654
+Counter resetting at iteration: 3
+iteration:  304 best:  12638311.83615261
+Counter resetting at iteration: 4
+iteration:  308 best:  12624615.495725667
+Counter resetting at iteration: 5
+iteration:  313 best:  12602879.551572008
+Counter resetting at iteration: 3
+iteration:  316 best:  12515860.10461941
+Counter resetting at iteration: 6
+iteration:  322 best:  12486143.917898722
+Counter resetting at iteration: 3
+iteration:  325 best:  12464407.973745063
+Counter resetting at iteration: 1
+iteration:  326 best:  12449775.732700286
+Counter resetting at iteration: 3
+iteration:  329 best:  12435395.141661307
+Counter resetting at iteration: 3
+iteration:  332 best:  12420762.900616528
+Counter resetting at iteration: 2
+iteration:  334 best:  12402799.25534607
+Counter resetting at iteration: 2
+iteration:  336 best:  12399026.956462871
+Counter resetting at iteration: 1
+iteration:  337 best:  12373786.423262313
+Counter resetting at iteration: 2
+iteration:  339 best:  12343133.37743302
+Counter resetting at iteration: 1
+iteration:  340 best:  12317892.844232462
+Counter resetting at iteration: 2
+iteration:  342 best:  12294432.248016803
+Counter resetting at iteration: 4
+iteration:  346 best:  12289287.445224367
+Counter resetting at iteration: 2
+iteration:  348 best:  12278608.60579182
+Counter resetting at iteration: 1
+iteration:  349 best:  12238538.668986952
+Counter resetting at iteration: 0
+iteration:  349 best:  12220263.598460983
+Counter resetting at iteration: 4
+iteration:  353 best:  12148312.202482827
+Counter resetting at iteration: 2
+iteration:  355 best:  12131761.78401886
+Counter resetting at iteration: 2
+iteration:  357 best:  12113104.023597555
+Counter resetting at iteration: 2
+iteration:  359 best:  12074143.55292701
+Counter resetting at iteration: 1
+iteration:  360 best:  12038935.374041738
+Counter resetting at iteration: 1
+iteration:  361 best:  12031040.186100723
+Counter resetting at iteration: 2
+iteration:  363 best:  12024872.916280614
+Counter resetting at iteration: 2
+iteration:  365 best:  12006406.752099274
+Counter resetting at iteration: 0
+iteration:  365 best:  11920611.9958694
+Counter resetting at iteration: 4
+iteration:  369 best:  11852875.195041666
+Counter resetting at iteration: 3
+iteration:  372 best:  11844980.007100651
+Counter resetting at iteration: 3
+iteration:  375 best:  11814489.393752636
+Counter resetting at iteration: 6
+iteration:  381 best:  11814488.87483004
+Counter resetting at iteration: 0
+iteration:  381 best:  11799138.183033293
+Counter resetting at iteration: 10
+iteration:  391 best:  11730685.088396627
+Counter resetting at iteration: 1
+iteration:  392 best:  11715333.877677288
+Counter resetting at iteration: 6
+iteration:  398 best:  11685362.2935143
+Counter resetting at iteration: 3
+iteration:  401 best:  11679817.72790613
+Counter resetting at iteration: 3
+iteration:  404 best:  11641647.670803355
+Counter resetting at iteration: 3
+iteration:  407 best:  11624983.297572257
+Counter resetting at iteration: 3
+iteration:  410 best:  11598639.931937298
+Counter resetting at iteration: 3
+iteration:  413 best:  11596155.633546054
+Counter resetting at iteration: 1
+iteration:  414 best:  11586830.354209313
+Counter resetting at iteration: 2
+iteration:  416 best:  11526451.358267268
+Counter resetting at iteration: 1
+iteration:  417 best:  11512024.12667957
+Counter resetting at iteration: 0
+iteration:  417 best:  11508771.270952832
+Counter resetting at iteration: 6
+iteration:  423 best:  11500214.548951585
+Counter resetting at iteration: 5
+iteration:  428 best:  11473158.99615174
+Counter resetting at iteration: 1
+iteration:  429 best:  11446702.183840083
+Counter resetting at iteration: 3
+iteration:  432 best:  11442171.697905418
+Counter resetting at iteration: 1
+iteration:  433 best:  11441951.69490944
+Counter resetting at iteration: 1
+iteration:  434 best:  11424381.899454944
+Counter resetting at iteration: 2
+iteration:  436 best:  11424161.896458967
+Counter resetting at iteration: 0
+iteration:  436 best:  11422225.491662707
+Counter resetting at iteration: 0
+iteration:  436 best:  11398145.090139262
+Counter resetting at iteration: 2
+iteration:  438 best:  11397925.087143285
+Counter resetting at iteration: 0
+iteration:  438 best:  11388659.332793912
+Counter resetting at iteration: 4
+iteration:  442 best:  11359817.96516902
+Counter resetting at iteration: 1
+iteration:  443 best:  11342603.94636664
+Counter resetting at iteration: 1
+iteration:  444 best:  11306305.600057516
+Counter resetting at iteration: 1
+iteration:  445 best:  11246840.098870687
+Counter resetting at iteration: 1
+iteration:  446 best:  11240206.72542486
+Counter resetting at iteration: 3
+iteration:  449 best:  11224527.646969214
+Counter resetting at iteration: 1
+iteration:  450 best:  11193327.733759183
+Counter resetting at iteration: 0
+iteration:  450 best:  11184204.368445996
+Counter resetting at iteration: 1
+iteration:  451 best:  11175647.64644475
+Counter resetting at iteration: 3
+iteration:  454 best:  11170679.68724459
+Counter resetting at iteration: 1
+iteration:  455 best:  11152999.599930154
+Counter resetting at iteration: 3
+iteration:  458 best:  11149154.983617827
+Counter resetting at iteration: 1
+iteration:  459 best:  11144442.877928907
+Counter resetting at iteration: 1
+iteration:  460 best:  11071761.183256317
+Counter resetting at iteration: 4
+iteration:  464 best:  11070855.310638003
+Counter resetting at iteration: 1
+iteration:  465 best:  11062298.588636758
+Counter resetting at iteration: 1
+iteration:  466 best:  11041066.40539448
+Counter resetting at iteration: 3
+iteration:  469 best:  11037344.845039437
+Counter resetting at iteration: 3
+iteration:  472 best:  10990006.822942723
+Counter resetting at iteration: 4
+iteration:  476 best:  10984907.893281318
+Counter resetting at iteration: 1
+iteration:  477 best:  10965053.0793454
+Counter resetting at iteration: 2
+iteration:  479 best:  10947032.465804163
+Counter resetting at iteration: 2
+iteration:  481 best:  10933066.584970525
+Counter resetting at iteration: 1
+iteration:  482 best:  10912616.127587283
+Counter resetting at iteration: 0
+iteration:  482 best:  10890236.119051708
+Counter resetting at iteration: 7
+iteration:  489 best:  10875162.287292182
+Counter resetting at iteration: 1
+iteration:  490 best:  10865481.623217393
+Counter resetting at iteration: 1
+iteration:  491 best:  10852782.278756607
+Counter resetting at iteration: 5
+iteration:  496 best:  10828677.425768495
+Counter resetting at iteration: 1
+iteration:  497 best:  10791223.585473396
+Total iterations:  500
+Best Solution:  10791223.585473396
+Trial run2:
+Time: 2019-10-22 10:40:02.714938
+Best initial sol:  22481038.6229369
+Counter resetting at iteration: 0
+iteration:  0 best:  22334888.229123842
+Counter resetting at iteration: 0
+iteration:  0 best:  22305888.736387793
+Counter resetting at iteration: 0
+iteration:  0 best:  22099889.841956712
+Counter resetting at iteration: 1
+iteration:  1 best:  22067291.065942135
+Counter resetting at iteration: 0
+iteration:  1 best:  21377592.53273286
+Counter resetting at iteration: 6
+iteration:  7 best:  21179607.018742885
+Counter resetting at iteration: 1
+iteration:  8 best:  21097291.44748186
+Counter resetting at iteration: 2
+iteration:  10 best:  20933406.79163117
+Counter resetting at iteration: 0
+iteration:  10 best:  20836083.530563314
+Counter resetting at iteration: 0
+iteration:  10 best:  20794604.731017563
+Counter resetting at iteration: 4
+iteration:  14 best:  20783455.237073667
+Counter resetting at iteration: 1
+iteration:  15 best:  20631032.289105345
+Counter resetting at iteration: 2
+iteration:  17 best:  20616445.48802102
+Counter resetting at iteration: 0
+iteration:  17 best:  20577907.862698093
+Counter resetting at iteration: 0
+iteration:  17 best:  20326081.022897925
+Counter resetting at iteration: 2
+iteration:  19 best:  20293599.027911562
+Counter resetting at iteration: 1
+iteration:  20 best:  20037253.830822594
+Counter resetting at iteration: 5
+iteration:  25 best:  20020458.667686228
+Counter resetting at iteration: 1
+iteration:  26 best:  19520942.63501534
+Counter resetting at iteration: 5
+iteration:  31 best:  19411952.995458014
+Counter resetting at iteration: 7
+iteration:  38 best:  19385921.57030149
+Counter resetting at iteration: 0
+iteration:  38 best:  19380359.227529656
+Counter resetting at iteration: 1
+iteration:  39 best:  19198944.025543556
+Counter resetting at iteration: 2
+iteration:  41 best:  19190379.3105378
+Counter resetting at iteration: 0
+iteration:  41 best:  18899610.99548545
+Counter resetting at iteration: 3
+iteration:  44 best:  18810100.821884863
+Counter resetting at iteration: 2
+iteration:  46 best:  18730521.655677892
+Counter resetting at iteration: 5
+iteration:  51 best:  18710348.944554593
+Counter resetting at iteration: 1
+iteration:  52 best:  18663084.830037173
+Counter resetting at iteration: 1
+iteration:  53 best:  18481552.761298716
+Counter resetting at iteration: 2
+iteration:  55 best:  18473859.774520803
+Counter resetting at iteration: 1
+iteration:  56 best:  18398012.64258044
+Counter resetting at iteration: 1
+iteration:  57 best:  18227476.92742052
+Counter resetting at iteration: 2
+iteration:  59 best:  18176345.322532512
+Counter resetting at iteration: 2
+iteration:  61 best:  18113602.297378883
+Counter resetting at iteration: 0
+iteration:  61 best:  17997037.546528228
+Counter resetting at iteration: 3
+iteration:  64 best:  17744596.486761056
+Counter resetting at iteration: 5
+iteration:  69 best:  17635726.866519295
+Counter resetting at iteration: 0
+iteration:  69 best:  17588939.65859925
+Counter resetting at iteration: 1
+iteration:  70 best:  17428734.304874584
+Counter resetting at iteration: 7
+iteration:  77 best:  17354104.5087237
+Counter resetting at iteration: 1
+iteration:  78 best:  17344180.653695166
+Counter resetting at iteration: 1
+iteration:  79 best:  17278939.920823693
+Counter resetting at iteration: 1
+iteration:  80 best:  17174202.474012703
+Counter resetting at iteration: 1
+iteration:  81 best:  17167617.27427141
+Counter resetting at iteration: 1
+iteration:  82 best:  17075353.1409532
+Counter resetting at iteration: 2
+iteration:  84 best:  17070784.77867831
+Counter resetting at iteration: 0
+iteration:  84 best:  17033810.148213252
+Counter resetting at iteration: 1
+iteration:  85 best:  16923852.93578642
+Counter resetting at iteration: 1
+iteration:  86 best:  16859617.534001887
+Counter resetting at iteration: 1
+iteration:  87 best:  16730972.755216029
+Counter resetting at iteration: 1
+iteration:  88 best:  16726694.373389784
+Counter resetting at iteration: 1
+iteration:  89 best:  16590738.684225107
+Counter resetting at iteration: 1
+iteration:  90 best:  16350413.916826572
+Counter resetting at iteration: 4
+iteration:  94 best:  16264636.157752294
+Counter resetting at iteration: 1
+iteration:  95 best:  16239426.314717595
+Counter resetting at iteration: 2
+iteration:  97 best:  15959392.330366308
+Counter resetting at iteration: 2
+iteration:  99 best:  15936704.578280123
+Counter resetting at iteration: 5
+iteration:  104 best:  15925921.655385653
+Counter resetting at iteration: 0
+iteration:  104 best:  15847515.823570216
+Counter resetting at iteration: 4
+iteration:  108 best:  15846955.590860596
+Counter resetting at iteration: 1
+iteration:  109 best:  15832118.287515977
+Counter resetting at iteration: 0
+iteration:  109 best:  15824828.071484031
+Counter resetting at iteration: 0
+iteration:  109 best:  15814045.14858956
+Counter resetting at iteration: 0
+iteration:  109 best:  15736715.086344179
+Counter resetting at iteration: 1
+iteration:  110 best:  15720411.184713965
+Counter resetting at iteration: 1
+iteration:  111 best:  15712391.33197832
+Counter resetting at iteration: 1
+iteration:  112 best:  15695904.681202067
+Counter resetting at iteration: 2
+iteration:  114 best:  15678920.656997662
+Counter resetting at iteration: 0
+iteration:  114 best:  15605375.118154258
+Counter resetting at iteration: 1
+iteration:  115 best:  15587512.650806144
+Counter resetting at iteration: 2
+iteration:  117 best:  15528045.055908876
+Counter resetting at iteration: 3
+iteration:  120 best:  15511741.154278664
+Counter resetting at iteration: 2
+iteration:  122 best:  15502723.797880748
+Counter resetting at iteration: 1
+iteration:  123 best:  15458104.013215527
+Counter resetting at iteration: 1
+iteration:  124 best:  15375303.453025531
+Counter resetting at iteration: 2
+iteration:  126 best:  15372060.686284164
+Counter resetting at iteration: 0
+iteration:  126 best:  15341832.778044876
+Counter resetting at iteration: 2
+iteration:  128 best:  15337035.079320282
+Counter resetting at iteration: 3
+iteration:  131 best:  15328217.866952078
+Counter resetting at iteration: 2
+iteration:  133 best:  15302119.643590814
+Counter resetting at iteration: 1
+iteration:  134 best:  15207197.992577486
+Counter resetting at iteration: 6
+iteration:  140 best:  15158314.40051148
+Counter resetting at iteration: 2
+iteration:  142 best:  15128736.770488687
+Counter resetting at iteration: 2
+iteration:  144 best:  15090468.396783438
+Counter resetting at iteration: 0
+iteration:  144 best:  15081651.184415234
+Counter resetting at iteration: 1
+iteration:  145 best:  15012701.154828701
+Counter resetting at iteration: 2
+iteration:  147 best:  15009458.388087336
+Counter resetting at iteration: 2
+iteration:  149 best:  14946237.69554977
+Counter resetting at iteration: 0
+iteration:  149 best:  14936320.32968385
+Counter resetting at iteration: 1
+iteration:  150 best:  14930997.165998535
+Counter resetting at iteration: 2
+iteration:  152 best:  14920270.936419925
+Counter resetting at iteration: 2
+iteration:  154 best:  14897326.746122843
+Counter resetting at iteration: 0
+iteration:  154 best:  14889664.11250621
+Counter resetting at iteration: 1
+iteration:  155 best:  14883800.56870723
+Counter resetting at iteration: 2
+iteration:  157 best:  14878651.204903027
+Counter resetting at iteration: 1
+iteration:  158 best:  14864033.621380081
+Counter resetting at iteration: 1
+iteration:  159 best:  14648665.994495042
+Counter resetting at iteration: 4
+iteration:  163 best:  14646311.442448433
+Counter resetting at iteration: 0
+iteration:  163 best:  14570862.573290022
+Counter resetting at iteration: 2
+iteration:  165 best:  14518691.823111951
+Counter resetting at iteration: 3
+iteration:  168 best:  14413637.991742538
+Counter resetting at iteration: 7
+iteration:  175 best:  14386553.197965695
+Counter resetting at iteration: 1
+iteration:  176 best:  14345220.14447337
+Counter resetting at iteration: 2
+iteration:  178 best:  14326303.27864923
+Counter resetting at iteration: 1
+iteration:  179 best:  14324644.249927113
+Counter resetting at iteration: 1
+iteration:  180 best:  14275841.330964353
+Counter resetting at iteration: 1
+iteration:  181 best:  14272126.586268771
+Counter resetting at iteration: 1
+iteration:  182 best:  14254170.686684478
+Counter resetting at iteration: 1
+iteration:  183 best:  14196763.647560615
+Counter resetting at iteration: 1
+iteration:  184 best:  14184791.873175463
+Counter resetting at iteration: 0
+iteration:  184 best:  14178807.747976322
+Counter resetting at iteration: 1
+iteration:  185 best:  14176187.75301436
+Counter resetting at iteration: 0
+iteration:  185 best:  14105714.189771725
+Counter resetting at iteration: 3
+iteration:  188 best:  14089814.006160896
+Counter resetting at iteration: 1
+iteration:  189 best:  14063866.49870375
+Counter resetting at iteration: 0
+iteration:  189 best:  14056060.87257036
+Counter resetting at iteration: 1
+iteration:  190 best:  14015404.28372171
+Counter resetting at iteration: 4
+iteration:  194 best:  13974872.756888324
+Counter resetting at iteration: 0
+iteration:  194 best:  13965211.695839424
+Counter resetting at iteration: 4
+iteration:  198 best:  13899986.43638626
+Counter resetting at iteration: 2
+iteration:  200 best:  13781250.883647451
+Counter resetting at iteration: 3
+iteration:  203 best:  13777140.110850507
+Counter resetting at iteration: 2
+iteration:  205 best:  13689256.739100477
+Counter resetting at iteration: 1
+iteration:  206 best:  13685145.966303533
+Counter resetting at iteration: 2
+iteration:  208 best:  13671969.364372017
+Counter resetting at iteration: 1
+iteration:  209 best:  13670653.200137427
+Counter resetting at iteration: 1
+iteration:  210 best:  13667858.591575073
+Counter resetting at iteration: 0
+iteration:  210 best:  13667255.02149632
+Counter resetting at iteration: 1
+iteration:  211 best:  13661919.42455953
+Counter resetting at iteration: 0
+iteration:  211 best:  13650975.432539627
+Counter resetting at iteration: 2
+iteration:  213 best:  13583721.155015716
+Counter resetting at iteration: 0
+iteration:  213 best:  13558981.28799265
+Counter resetting at iteration: 2
+iteration:  215 best:  13556657.337986296
+Counter resetting at iteration: 0
+iteration:  215 best:  13532025.620681513
+Counter resetting at iteration: 3
+iteration:  218 best:  13513422.081718463
+Counter resetting at iteration: 1
+iteration:  219 best:  13483920.86064388
+Counter resetting at iteration: 2
+iteration:  221 best:  13418581.57232839
+Counter resetting at iteration: 0
+iteration:  221 best:  13364089.623609832
+Counter resetting at iteration: 1
+iteration:  222 best:  13354197.223334063
+Counter resetting at iteration: 1
+iteration:  223 best:  13335593.684371013
+Counter resetting at iteration: 3
+iteration:  226 best:  13317353.874257391
+Counter resetting at iteration: 0
+iteration:  226 best:  13234365.986300014
+Counter resetting at iteration: 6
+iteration:  232 best:  13228156.172375552
+Counter resetting at iteration: 1
+iteration:  233 best:  13193664.285774695
+Counter resetting at iteration: 4
+iteration:  237 best:  13190400.245203333
+Counter resetting at iteration: 1
+iteration:  238 best:  13066187.04855704
+Counter resetting at iteration: 3
+iteration:  241 best:  13047583.50959399
+Counter resetting at iteration: 4
+iteration:  245 best:  13013967.266868401
+Counter resetting at iteration: 1
+iteration:  246 best:  12999718.626886245
+Counter resetting at iteration: 0
+iteration:  246 best:  12995363.727905352
+Counter resetting at iteration: 6
+iteration:  252 best:  12947498.845197605
+Counter resetting at iteration: 7
+iteration:  259 best:  12945150.973800804
+Counter resetting at iteration: 0
+iteration:  259 best:  12931972.601592317
+Counter resetting at iteration: 2
+iteration:  261 best:  12841365.69155256
+Counter resetting at iteration: 5
+iteration:  266 best:  12825839.447947271
+Counter resetting at iteration: 2
+iteration:  268 best:  12810724.107186683
+Counter resetting at iteration: 1
+iteration:  269 best:  12800483.25884755
+Counter resetting at iteration: 4
+iteration:  273 best:  12798684.598564498
+Counter resetting at iteration: 1
+iteration:  274 best:  12792443.311939914
+Counter resetting at iteration: 1
+iteration:  275 best:  12785367.91808696
+Counter resetting at iteration: 0
+iteration:  275 best:  12782504.864318682
+Counter resetting at iteration: 2
+iteration:  277 best:  12772264.015979547
+Counter resetting at iteration: 0
+iteration:  277 best:  12759147.193453105
+Counter resetting at iteration: 1
+iteration:  278 best:  12757148.67521896
+Counter resetting at iteration: 0
+iteration:  278 best:  12697089.558654174
+Counter resetting at iteration: 5
+iteration:  283 best:  12666771.536766939
+Counter resetting at iteration: 2
+iteration:  285 best:  12657364.752622392
+Counter resetting at iteration: 1
+iteration:  286 best:  12647123.904283257
+Counter resetting at iteration: 0
+iteration:  286 best:  12632008.56352267
+Counter resetting at iteration: 1
+iteration:  287 best:  12580431.649789091
+Counter resetting at iteration: 3
+iteration:  290 best:  12565316.309028503
+Counter resetting at iteration: 8
+iteration:  298 best:  12476026.517723607
+Counter resetting at iteration: 1
+iteration:  299 best:  12459564.05520014
+Counter resetting at iteration: 2
+iteration:  301 best:  12450157.271055596
+Counter resetting at iteration: 2
+iteration:  303 best:  12448405.463185452
+Counter resetting at iteration: 0
+iteration:  303 best:  12431586.374329241
+Counter resetting at iteration: 4
+iteration:  307 best:  12414813.728959275
+Counter resetting at iteration: 6
+iteration:  313 best:  12334365.553330123
+Counter resetting at iteration: 2
+iteration:  315 best:  12315794.65660377
+Counter resetting at iteration: 7
+iteration:  322 best:  12314042.848733626
+Counter resetting at iteration: 1
+iteration:  323 best:  12299735.701700358
+Counter resetting at iteration: 0
+iteration:  323 best:  12260872.031250184
+Counter resetting at iteration: 2
+iteration:  325 best:  12242301.13452383
+Counter resetting at iteration: 2
+iteration:  327 best:  12225202.124722691
+Counter resetting at iteration: 1
+iteration:  328 best:  12209469.534250451
+Counter resetting at iteration: 3
+iteration:  331 best:  12151708.60264275
+Counter resetting at iteration: 3
+iteration:  334 best:  12141662.893028598
+Counter resetting at iteration: 5
+iteration:  339 best:  12132338.550902264
+Counter resetting at iteration: 3
+iteration:  342 best:  12027273.773331063
+Counter resetting at iteration: 3
+iteration:  345 best:  12027034.712490583
+Counter resetting at iteration: 1
+iteration:  346 best:  12014829.653769422
+Counter resetting at iteration: 4
+iteration:  350 best:  11993711.43264526
+Counter resetting at iteration: 1
+iteration:  351 best:  11919089.218324553
+Counter resetting at iteration: 1
+iteration:  352 best:  11909764.876198221
+Counter resetting at iteration: 1
+iteration:  353 best:  11904476.209208624
+Counter resetting at iteration: 1
+iteration:  354 best:  11895099.373013131
+Counter resetting at iteration: 3
+iteration:  357 best:  11784745.928452333
+Counter resetting at iteration: 2
+iteration:  359 best:  11784506.867611853
+Counter resetting at iteration: 2
+iteration:  361 best:  11771988.838450663
+Counter resetting at iteration: 0
+iteration:  361 best:  11756711.315596605
+Counter resetting at iteration: 3
+iteration:  364 best:  11756472.254756125
+Counter resetting at iteration: 1
+iteration:  365 best:  11753761.539180322
+Counter resetting at iteration: 1
+iteration:  366 best:  11738426.497764857
+Counter resetting at iteration: 3
+iteration:  369 best:  11733267.380219122
+Counter resetting at iteration: 0
+iteration:  369 best:  11690347.028995624
+Counter resetting at iteration: 2
+iteration:  371 best:  11682695.240455315
+Counter resetting at iteration: 2
+iteration:  373 best:  11664539.972067427
+Counter resetting at iteration: 0
+iteration:  373 best:  11649371.960609991
+Counter resetting at iteration: 1
+iteration:  374 best:  11642330.230895672
+Counter resetting at iteration: 1
+iteration:  375 best:  11631216.692222103
+Counter resetting at iteration: 1
+iteration:  376 best:  11603718.284060754
+Counter resetting at iteration: 5
+iteration:  381 best:  11585563.015672868
+Counter resetting at iteration: 0
+iteration:  381 best:  11572733.894788744
+Counter resetting at iteration: 4
+iteration:  385 best:  11561650.066623118
+Counter resetting at iteration: 1
+iteration:  386 best:  11554578.626400856
+Counter resetting at iteration: 1
+iteration:  387 best:  11540600.43416085
+Counter resetting at iteration: 4
+iteration:  391 best:  11522445.165772961
+Counter resetting at iteration: 7
+iteration:  398 best:  11521097.985303314
+Counter resetting at iteration: 0
+iteration:  398 best:  11487282.48700754
+Counter resetting at iteration: 4
+iteration:  402 best:  11453801.84591
+Counter resetting at iteration: 6
+iteration:  408 best:  11443343.71638498
+Counter resetting at iteration: 1
+iteration:  409 best:  11441996.535915334
+Counter resetting at iteration: 0
+iteration:  409 best:  11407476.651349682
+Counter resetting at iteration: 1
+iteration:  410 best:  11372113.511554606
+Counter resetting at iteration: 2
+iteration:  412 best:  11306254.371066205
+Counter resetting at iteration: 2
+iteration:  414 best:  11304907.190596558
+Counter resetting at iteration: 1
+iteration:  415 best:  11290715.456664138
+Counter resetting at iteration: 0
+iteration:  415 best:  11258581.99603624
+Counter resetting at iteration: 1
+iteration:  416 best:  11246776.686041575
+Counter resetting at iteration: 2
+iteration:  418 best:  11245429.505571928
+Counter resetting at iteration: 2
+iteration:  420 best:  11235568.97018006
+Counter resetting at iteration: 2
+iteration:  422 best:  11225110.840655042
+Counter resetting at iteration: 1
+iteration:  423 best:  11223763.660185395
+Counter resetting at iteration: 4
+iteration:  427 best:  11217070.021006906
+Counter resetting at iteration: 0
+iteration:  427 best:  11161551.054685295
+Counter resetting at iteration: 1
+iteration:  428 best:  11160203.874215648
+Counter resetting at iteration: 1
+iteration:  429 best:  11153510.23503716
+Counter resetting at iteration: 3
+iteration:  432 best:  11131844.389650626
+Counter resetting at iteration: 3
+iteration:  435 best:  11096436.997274851
+Counter resetting at iteration: 1
+iteration:  436 best:  11074771.151888318
+Counter resetting at iteration: 6
+iteration:  442 best:  11048490.939139608
+Counter resetting at iteration: 2
+iteration:  444 best:  11034100.277192716
+Counter resetting at iteration: 0
+iteration:  444 best:  11022294.96719805
+Counter resetting at iteration: 5
+iteration:  449 best:  11018165.768798927
+Counter resetting at iteration: 5
+iteration:  454 best:  10980668.36508076
+Counter resetting at iteration: 5
+iteration:  459 best:  10976539.166681638
+Counter resetting at iteration: 6
+iteration:  465 best:  10956017.47709833
+Counter resetting at iteration: 3
+iteration:  468 best:  10938531.21388341
+Counter resetting at iteration: 3
+iteration:  471 best:  10918009.524300102
+Counter resetting at iteration: 7
+iteration:  478 best:  10916873.214237293
+Counter resetting at iteration: 5
+iteration:  483 best:  10886567.983086944
+Counter resetting at iteration: 9
+iteration:  492 best:  10881258.520643119
+Counter resetting at iteration: 1
+iteration:  493 best:  10851936.511817921
+Counter resetting at iteration: 6
+iteration:  499 best:  10818894.630205618
+Total iterations:  500
+Best Solution:  10818894.630205618
+Trial run3:
+Time: 2019-10-22 10:42:21.239900
+Best initial sol:  21413454.678817194
+Counter resetting at iteration: 1
+iteration:  1 best:  21077664.311428096
+Counter resetting at iteration: 8
+iteration:  9 best:  20992140.812733576
+Counter resetting at iteration: 1
+iteration:  10 best:  20539340.643315166
+Counter resetting at iteration: 1
+iteration:  11 best:  20451426.964430097
+Counter resetting at iteration: 1
+iteration:  12 best:  20223701.514939234
+Counter resetting at iteration: 3
+iteration:  15 best:  20075638.223965812
+Counter resetting at iteration: 3
+iteration:  18 best:  20066850.545854427
+Counter resetting at iteration: 0
+iteration:  18 best:  19905121.970166642
+Counter resetting at iteration: 1
+iteration:  19 best:  19782473.05966477
+Counter resetting at iteration: 0
+iteration:  19 best:  19397138.541882742
+Counter resetting at iteration: 4
+iteration:  23 best:  19349012.173865966
+Counter resetting at iteration: 2
+iteration:  25 best:  19270729.751930423
+Counter resetting at iteration: 4
+iteration:  29 best:  19264610.09917005
+Counter resetting at iteration: 0
+iteration:  29 best:  19239585.465931624
+Counter resetting at iteration: 1
+iteration:  30 best:  19102529.458506104
+Counter resetting at iteration: 1
+iteration:  31 best:  18982735.98066341
+Counter resetting at iteration: 2
+iteration:  33 best:  18944371.80653113
+Counter resetting at iteration: 0
+iteration:  33 best:  18899823.26718005
+Counter resetting at iteration: 1
+iteration:  34 best:  18851600.480032504
+Counter resetting at iteration: 0
+iteration:  34 best:  18753738.227519684
+Counter resetting at iteration: 2
+iteration:  36 best:  18486647.494764384
+Counter resetting at iteration: 1
+iteration:  37 best:  18412481.44083852
+Counter resetting at iteration: 2
+iteration:  39 best:  18392069.74084975
+Counter resetting at iteration: 1
+iteration:  40 best:  18278329.95064926
+Counter resetting at iteration: 0
+iteration:  40 best:  18276597.08020442
+Counter resetting at iteration: 0
+iteration:  40 best:  18045834.89759131
+Counter resetting at iteration: 1
+iteration:  41 best:  17972984.406381372
+Counter resetting at iteration: 0
+iteration:  41 best:  17899599.098999787
+Counter resetting at iteration: 5
+iteration:  46 best:  17698683.484437875
+Counter resetting at iteration: 1
+iteration:  47 best:  17679155.131043483
+Counter resetting at iteration: 2
+iteration:  49 best:  17648563.71710652
+Counter resetting at iteration: 2
+iteration:  51 best:  17528721.722658418
+Counter resetting at iteration: 3
+iteration:  54 best:  17467963.73157172
+Counter resetting at iteration: 1
+iteration:  55 best:  17321392.90009017
+Counter resetting at iteration: 1
+iteration:  56 best:  17301890.295297273
+Counter resetting at iteration: 2
+iteration:  58 best:  17263914.721191056
+Counter resetting at iteration: 2
+iteration:  60 best:  17212340.39131319
+Counter resetting at iteration: 1
+iteration:  61 best:  17208308.023771852
+Counter resetting at iteration: 0
+iteration:  61 best:  17183281.42082447
+Counter resetting at iteration: 0
+iteration:  61 best:  17179410.95381064
+Counter resetting at iteration: 0
+iteration:  61 best:  17159556.593491044
+Counter resetting at iteration: 0
+iteration:  61 best:  17110868.720935095
+Counter resetting at iteration: 1
+iteration:  62 best:  17031593.788616177
+Counter resetting at iteration: 3
+iteration:  65 best:  17023660.019019987
+Counter resetting at iteration: 1
+iteration:  66 best:  16944178.834713314
+Counter resetting at iteration: 0
+iteration:  66 best:  16929668.72131098
+Counter resetting at iteration: 2
+iteration:  68 best:  16857290.19285571
+Counter resetting at iteration: 1
+iteration:  69 best:  16784433.170107413
+Counter resetting at iteration: 0
+iteration:  69 best:  16762801.762598272
+Counter resetting at iteration: 4
+iteration:  73 best:  16708689.561026532
+Counter resetting at iteration: 1
+iteration:  74 best:  16684955.65260613
+Counter resetting at iteration: 1
+iteration:  75 best:  16587427.310096707
+Counter resetting at iteration: 4
+iteration:  79 best:  16585975.313951649
+Counter resetting at iteration: 0
+iteration:  79 best:  16568870.374664137
+Counter resetting at iteration: 1
+iteration:  80 best:  16560705.784201287
+Counter resetting at iteration: 1
+iteration:  81 best:  16548104.192305453
+Counter resetting at iteration: 1
+iteration:  82 best:  16527643.99179507
+Counter resetting at iteration: 1
+iteration:  83 best:  16512054.035862934
+Counter resetting at iteration: 0
+iteration:  83 best:  16486372.674306082
+Counter resetting at iteration: 1
+iteration:  84 best:  16485003.748893473
+Counter resetting at iteration: 0
+iteration:  84 best:  16478820.264855789
+Counter resetting at iteration: 0
+iteration:  84 best:  16423232.791978812
+Counter resetting at iteration: 0
+iteration:  84 best:  16353978.989062184
+Counter resetting at iteration: 5
+iteration:  89 best:  16286467.41430054
+Counter resetting at iteration: 1
+iteration:  90 best:  16257269.451031314
+Counter resetting at iteration: 2
+iteration:  92 best:  16236099.831893614
+Counter resetting at iteration: 1
+iteration:  93 best:  16216127.700568827
+Counter resetting at iteration: 0
+iteration:  93 best:  16210437.157419732
+Counter resetting at iteration: 1
+iteration:  94 best:  16203526.108672993
+Counter resetting at iteration: 0
+iteration:  94 best:  16199828.834567191
+Counter resetting at iteration: 1
+iteration:  95 best:  16187227.242671357
+Counter resetting at iteration: 1
+iteration:  96 best:  16072600.790698523
+Counter resetting at iteration: 1
+iteration:  97 best:  16062048.735410204
+Counter resetting at iteration: 1
+iteration:  98 best:  16048963.266977286
+Counter resetting at iteration: 0
+iteration:  98 best:  16044282.500068782
+Counter resetting at iteration: 0
+iteration:  98 best:  16036868.869986752
+Counter resetting at iteration: 0
+iteration:  98 best:  16036390.394046703
+Counter resetting at iteration: 1
+iteration:  99 best:  16034983.537713828
+Counter resetting at iteration: 0
+iteration:  99 best:  16023788.80215087
+Counter resetting at iteration: 1
+iteration:  100 best:  15819590.021700123
+Counter resetting at iteration: 5
+iteration:  105 best:  15774975.739287239
+Counter resetting at iteration: 1
+iteration:  106 best:  15719442.413088078
+Counter resetting at iteration: 4
+iteration:  110 best:  15711158.176392118
+Counter resetting at iteration: 1
+iteration:  111 best:  15697170.908812677
+Counter resetting at iteration: 0
+iteration:  111 best:  15677430.551819207
+Counter resetting at iteration: 1
+iteration:  112 best:  15541697.204011513
+Counter resetting at iteration: 4
+iteration:  116 best:  15486268.35992744
+Counter resetting at iteration: 1
+iteration:  117 best:  15412274.054584086
+Counter resetting at iteration: 3
+iteration:  120 best:  15380156.881951943
+Counter resetting at iteration: 0
+iteration:  120 best:  15356845.210500013
+Counter resetting at iteration: 1
+iteration:  121 best:  15353678.487413716
+Counter resetting at iteration: 0
+iteration:  121 best:  15313216.77047439
+Counter resetting at iteration: 1
+iteration:  122 best:  15309887.346344925
+Counter resetting at iteration: 1
+iteration:  123 best:  15279705.00948237
+Counter resetting at iteration: 0
+iteration:  123 best:  15267103.417586537
+Counter resetting at iteration: 1
+iteration:  124 best:  15136885.30929675
+Counter resetting at iteration: 4
+iteration:  128 best:  15135617.49949757
+Counter resetting at iteration: 0
+iteration:  128 best:  15131303.738768429
+Counter resetting at iteration: 1
+iteration:  129 best:  15086919.27109702
+Counter resetting at iteration: 2
+iteration:  131 best:  15037443.837812327
+Counter resetting at iteration: 2
+iteration:  133 best:  15000386.981313294
+Counter resetting at iteration: 1
+iteration:  134 best:  14985546.28979035
+Counter resetting at iteration: 1
+iteration:  135 best:  14982145.854003789
+Counter resetting at iteration: 1
+iteration:  136 best:  14941161.82211894
+Counter resetting at iteration: 0
+iteration:  136 best:  14935580.251590623
+Counter resetting at iteration: 1
+iteration:  137 best:  14885194.09817777
+Counter resetting at iteration: 4
+iteration:  141 best:  14882427.26783962
+Counter resetting at iteration: 1
+iteration:  142 best:  14856820.585959375
+Counter resetting at iteration: 1
+iteration:  143 best:  14841300.235421399
+Counter resetting at iteration: 3
+iteration:  146 best:  14836398.323908113
+Counter resetting at iteration: 2
+iteration:  148 best:  14806434.432546526
+Counter resetting at iteration: 0
+iteration:  148 best:  14755953.7112661
+Counter resetting at iteration: 2
+iteration:  150 best:  14737002.64627059
+Counter resetting at iteration: 2
+iteration:  152 best:  14707630.058544671
+Counter resetting at iteration: 0
+iteration:  152 best:  14676386.450797882
+Counter resetting at iteration: 3
+iteration:  155 best:  14616110.660225388
+Counter resetting at iteration: 0
+iteration:  155 best:  14585792.713591374
+Counter resetting at iteration: 1
+iteration:  156 best:  14585522.670741435
+Counter resetting at iteration: 2
+iteration:  158 best:  14577446.068582151
+Counter resetting at iteration: 0
+iteration:  158 best:  14565387.239088573
+Counter resetting at iteration: 3
+iteration:  161 best:  14560786.294635743
+Counter resetting at iteration: 1
+iteration:  162 best:  14552439.64962652
+Counter resetting at iteration: 2
+iteration:  164 best:  14547128.121948138
+Counter resetting at iteration: 0
+iteration:  164 best:  14545061.47665764
+Counter resetting at iteration: 1
+iteration:  165 best:  14541787.702561524
+Counter resetting at iteration: 0
+iteration:  165 best:  14539479.90612932
+Counter resetting at iteration: 0
+iteration:  165 best:  14392075.45022744
+Counter resetting at iteration: 1
+iteration:  166 best:  14386493.879699122
+Counter resetting at iteration: 5
+iteration:  171 best:  14359270.704623468
+Counter resetting at iteration: 1
+iteration:  172 best:  14224442.143643923
+Counter resetting at iteration: 2
+iteration:  174 best:  14188266.283001006
+Counter resetting at iteration: 2
+iteration:  176 best:  14178974.279083692
+Counter resetting at iteration: 1
+iteration:  177 best:  14151229.296775553
+Counter resetting at iteration: 2
+iteration:  179 best:  14145647.726247232
+Counter resetting at iteration: 1
+iteration:  180 best:  14142513.947934978
+Counter resetting at iteration: 1
+iteration:  181 best:  14124582.776776638
+Counter resetting at iteration: 0
+iteration:  181 best:  14115290.77285932
+Counter resetting at iteration: 1
+iteration:  182 best:  14106276.328106605
+Counter resetting at iteration: 1
+iteration:  183 best:  14104476.467311617
+Counter resetting at iteration: 1
+iteration:  184 best:  14062719.036140379
+Counter resetting at iteration: 2
+iteration:  186 best:  14061212.863245908
+Counter resetting at iteration: 1
+iteration:  187 best:  14055631.292717587
+Counter resetting at iteration: 0
+iteration:  187 best:  14040724.132484768
+Counter resetting at iteration: 1
+iteration:  188 best:  13936312.273434624
+Counter resetting at iteration: 2
+iteration:  190 best:  13900074.65360625
+Counter resetting at iteration: 0
+iteration:  190 best:  13886268.496611513
+Counter resetting at iteration: 2
+iteration:  192 best:  13810765.026574
+Counter resetting at iteration: 1
+iteration:  193 best:  13752935.94688109
+Counter resetting at iteration: 1
+iteration:  194 best:  13745623.66097727
+Counter resetting at iteration: 1
+iteration:  195 best:  13733042.984102309
+Counter resetting at iteration: 1
+iteration:  196 best:  13730941.043225475
+Counter resetting at iteration: 0
+iteration:  196 best:  13709386.041148897
+Counter resetting at iteration: 3
+iteration:  199 best:  13708252.160919886
+Counter resetting at iteration: 0
+iteration:  199 best:  13679375.904513996
+Counter resetting at iteration: 2
+iteration:  201 best:  13672288.161091205
+Counter resetting at iteration: 0
+iteration:  201 best:  13643335.33780418
+Counter resetting at iteration: 2
+iteration:  203 best:  13619231.317291386
+Counter resetting at iteration: 4
+iteration:  207 best:  13609939.313374069
+Counter resetting at iteration: 0
+iteration:  207 best:  13607371.337975498
+Counter resetting at iteration: 4
+iteration:  211 best:  13533229.84883115
+Counter resetting at iteration: 5
+iteration:  216 best:  13530661.873432584
+Counter resetting at iteration: 3
+iteration:  219 best:  13521369.86951527
+Counter resetting at iteration: 2
+iteration:  221 best:  13510173.142671444
+Counter resetting at iteration: 1
+iteration:  222 best:  13500881.13875413
+Counter resetting at iteration: 3
+iteration:  225 best:  13459180.812801553
+Counter resetting at iteration: 3
+iteration:  228 best:  13438692.082040412
+Counter resetting at iteration: 1
+iteration:  229 best:  13391753.789592797
+Counter resetting at iteration: 1
+iteration:  230 best:  13371265.05883166
+Counter resetting at iteration: 2
+iteration:  232 best:  13332971.40742232
+Counter resetting at iteration: 2
+iteration:  234 best:  13312482.676661182
+Counter resetting at iteration: 3
+iteration:  237 best:  13299266.802863056
+Counter resetting at iteration: 2
+iteration:  239 best:  13220108.723540086
+Counter resetting at iteration: 8
+iteration:  247 best:  13210307.827089904
+Counter resetting at iteration: 0
+iteration:  247 best:  13193696.670312287
+Counter resetting at iteration: 1
+iteration:  248 best:  13189932.12993741
+Counter resetting at iteration: 7
+iteration:  255 best:  13170273.910971517
+Counter resetting at iteration: 0
+iteration:  255 best:  13154953.395359395
+Counter resetting at iteration: 5
+iteration:  260 best:  13085030.11260627
+Counter resetting at iteration: 2
+iteration:  262 best:  13068185.269221382
+Counter resetting at iteration: 1
+iteration:  263 best:  13050051.378028255
+Counter resetting at iteration: 2
+iteration:  265 best:  13033206.534643367
+Counter resetting at iteration: 4
+iteration:  269 best:  13027128.56307413
+Counter resetting at iteration: 1
+iteration:  270 best:  13023719.170042712
+Counter resetting at iteration: 1
+iteration:  271 best:  13017016.09935068
+Counter resetting at iteration: 1
+iteration:  272 best:  13000171.255965792
+Counter resetting at iteration: 4
+iteration:  276 best:  12994093.284396555
+Counter resetting at iteration: 2
+iteration:  278 best:  12990683.891365137
+Counter resetting at iteration: 3
+iteration:  281 best:  12984605.9197959
+Counter resetting at iteration: 4
+iteration:  285 best:  12949159.608971763
+Counter resetting at iteration: 1
+iteration:  286 best:  12944072.838227622
+Counter resetting at iteration: 2
+iteration:  288 best:  12939672.244371109
+Counter resetting at iteration: 1
+iteration:  289 best:  12937994.866658386
+Counter resetting at iteration: 3
+iteration:  292 best:  12920947.950358007
+Counter resetting at iteration: 1
+iteration:  293 best:  12893282.920650559
+Counter resetting at iteration: 1
+iteration:  294 best:  12893061.191233592
+Counter resetting at iteration: 3
+iteration:  297 best:  12880945.47418513
+Counter resetting at iteration: 1
+iteration:  298 best:  12874355.392762631
+Counter resetting at iteration: 0
+iteration:  298 best:  12871458.109584475
+Counter resetting at iteration: 1
+iteration:  299 best:  12867161.841988487
+Counter resetting at iteration: 1
+iteration:  300 best:  12852752.311113514
+Counter resetting at iteration: 3
+iteration:  303 best:  12846600.456670705
+Counter resetting at iteration: 2
+iteration:  305 best:  12839168.102302512
+Counter resetting at iteration: 1
+iteration:  306 best:  12808856.766205478
+Counter resetting at iteration: 2
+iteration:  308 best:  12794254.591785878
+Counter resetting at iteration: 1
+iteration:  309 best:  12771174.6771406
+Counter resetting at iteration: 1
+iteration:  310 best:  12768133.513123807
+Counter resetting at iteration: 1
+iteration:  311 best:  12759357.83177137
+Counter resetting at iteration: 1
+iteration:  312 best:  12750359.046877842
+Counter resetting at iteration: 1
+iteration:  313 best:  12741291.898292175
+Counter resetting at iteration: 0
+iteration:  313 best:  12727463.014184237
+Counter resetting at iteration: 2
+iteration:  315 best:  12726406.39305526
+Counter resetting at iteration: 1
+iteration:  316 best:  12703831.53864426
+Counter resetting at iteration: 1
+iteration:  317 best:  12700933.456983699
+Counter resetting at iteration: 1
+iteration:  318 best:  12677491.248417245
+Counter resetting at iteration: 3
+iteration:  321 best:  12646274.471579188
+Counter resetting at iteration: 2
+iteration:  323 best:  12615856.505529784
+Counter resetting at iteration: 3
+iteration:  326 best:  12614077.17205816
+Counter resetting at iteration: 0
+iteration:  326 best:  12610699.670815604
+Counter resetting at iteration: 2
+iteration:  328 best:  12573406.673118591
+Counter resetting at iteration: 1
+iteration:  329 best:  12566157.387023756
+Counter resetting at iteration: 3
+iteration:  332 best:  12504677.299425937
+Counter resetting at iteration: 4
+iteration:  336 best:  12504455.570008973
+Counter resetting at iteration: 1
+iteration:  337 best:  12450045.096492803
+Counter resetting at iteration: 6
+iteration:  343 best:  12449823.367075838
+Counter resetting at iteration: 1
+iteration:  344 best:  12417946.589481195
+Counter resetting at iteration: 3
+iteration:  347 best:  12415945.526592607
+Counter resetting at iteration: 1
+iteration:  348 best:  12361313.323659472
+Counter resetting at iteration: 5
+iteration:  353 best:  12345145.808574054
+Counter resetting at iteration: 4
+iteration:  357 best:  12335650.996014753
+Counter resetting at iteration: 6
+iteration:  363 best:  12319805.73355936
+Counter resetting at iteration: 1
+iteration:  364 best:  12314764.675259702
+Counter resetting at iteration: 2
+iteration:  366 best:  12298326.435422694
+Counter resetting at iteration: 2
+iteration:  368 best:  12296055.30213794
+Counter resetting at iteration: 2
+iteration:  370 best:  12290309.388340486
+Counter resetting at iteration: 1
+iteration:  371 best:  12252984.827748427
+Counter resetting at iteration: 0
+iteration:  371 best:  12252100.039652947
+Counter resetting at iteration: 1
+iteration:  372 best:  12238335.743990405
+Counter resetting at iteration: 3
+iteration:  375 best:  12233390.666531183
+Counter resetting at iteration: 3
+iteration:  378 best:  12232098.506993374
+Counter resetting at iteration: 0
+iteration:  378 best:  12229215.36907941
+Counter resetting at iteration: 1
+iteration:  379 best:  12159943.213321399
+Counter resetting at iteration: 1
+iteration:  380 best:  12155489.459061755
+Counter resetting at iteration: 1
+iteration:  381 best:  12120838.842644162
+Counter resetting at iteration: 2
+iteration:  383 best:  12115893.765184939
+Counter resetting at iteration: 0
+iteration:  383 best:  12083514.282052103
+Counter resetting at iteration: 4
+iteration:  387 best:  12075287.637634998
+Counter resetting at iteration: 1
+iteration:  388 best:  12047555.660258684
+Counter resetting at iteration: 0
+iteration:  388 best:  12032181.723139215
+Counter resetting at iteration: 4
+iteration:  392 best:  11995465.612812722
+Counter resetting at iteration: 1
+iteration:  393 best:  11987506.050973833
+Counter resetting at iteration: 1
+iteration:  394 best:  11963843.618212959
+Counter resetting at iteration: 2
+iteration:  396 best:  11943842.085553387
+Counter resetting at iteration: 0
+iteration:  396 best:  11924694.355141891
+Counter resetting at iteration: 1
+iteration:  397 best:  11902895.208427265
+Counter resetting at iteration: 2
+iteration:  399 best:  11897695.53256456
+Counter resetting at iteration: 0
+iteration:  399 best:  11891581.56060388
+Counter resetting at iteration: 0
+iteration:  399 best:  11825040.708076699
+Counter resetting at iteration: 4
+iteration:  403 best:  11824186.905828621
+Counter resetting at iteration: 2
+iteration:  405 best:  11792952.19329031
+Counter resetting at iteration: 1
+iteration:  406 best:  11771926.380879115
+Counter resetting at iteration: 0
+iteration:  406 best:  11763937.364742544
+Counter resetting at iteration: 2
+iteration:  408 best:  11743935.832082972
+Counter resetting at iteration: 2
+iteration:  410 best:  11732281.434683407
+Counter resetting at iteration: 1
+iteration:  411 best:  11730995.047708077
+Counter resetting at iteration: 1
+iteration:  412 best:  11721405.553305293
+Counter resetting at iteration: 0
+iteration:  412 best:  11712279.902023835
+Counter resetting at iteration: 0
+iteration:  412 best:  11711847.317296581
+Counter resetting at iteration: 1
+iteration:  413 best:  11690821.504885389
+Counter resetting at iteration: 3
+iteration:  416 best:  11680191.387237445
+Counter resetting at iteration: 3
+iteration:  419 best:  11671673.774473894
+Counter resetting at iteration: 3
+iteration:  422 best:  11628891.684344247
+Counter resetting at iteration: 2
+iteration:  424 best:  11620179.668600842
+Counter resetting at iteration: 1
+iteration:  425 best:  11611662.05583729
+Counter resetting at iteration: 4
+iteration:  429 best:  11560362.352944091
+Counter resetting at iteration: 4
+iteration:  433 best:  11547901.615038633
+Counter resetting at iteration: 0
+iteration:  433 best:  11547336.19716198
+Counter resetting at iteration: 1
+iteration:  434 best:  11539384.002275081
+Counter resetting at iteration: 2
+iteration:  436 best:  11464372.125055915
+Counter resetting at iteration: 3
+iteration:  439 best:  11443393.774386905
+Counter resetting at iteration: 12
+iteration:  451 best:  11425086.535602998
+Counter resetting at iteration: 3
+iteration:  454 best:  11421227.685305893
+Counter resetting at iteration: 3
+iteration:  457 best:  11402920.446521984
+Counter resetting at iteration: 11
+iteration:  468 best:  11374978.500752283
+Counter resetting at iteration: 2
+iteration:  470 best:  11372138.279673787
+Counter resetting at iteration: 2
+iteration:  472 best:  11362214.597290074
+Counter resetting at iteration: 1
+iteration:  473 best:  11349237.615144914
+Counter resetting at iteration: 1
+iteration:  474 best:  11331432.430441877
+Counter resetting at iteration: 6
+iteration:  480 best:  11326349.634804867
+Counter resetting at iteration: 1
+iteration:  481 best:  11326183.789921844
+Counter resetting at iteration: 2
+iteration:  483 best:  11322778.90023618
+Counter resetting at iteration: 2
+iteration:  485 best:  11321100.994284835
+Counter resetting at iteration: 0
+iteration:  485 best:  11308940.584413823
+Counter resetting at iteration: 1
+iteration:  486 best:  11292731.84680011
+Counter resetting at iteration: 1
+iteration:  487 best:  11288244.43681901
+Counter resetting at iteration: 1
+iteration:  488 best:  11279734.135009445
+Counter resetting at iteration: 4
+iteration:  492 best:  11278829.676074378
+Counter resetting at iteration: 1
+iteration:  493 best:  11270240.000772053
+Counter resetting at iteration: 3
+iteration:  496 best:  11246116.347004687
+Counter resetting at iteration: 1
+iteration:  497 best:  11241033.551367678
+Counter resetting at iteration: 2
+iteration:  499 best:  11237462.81679899
+Total iterations:  500
+Best Solution:  11237462.81679899
+Trial run4:
+Time: 2019-10-22 10:44:34.764704
+Best initial sol:  22111718.209971912
+Counter resetting at iteration: 0
+iteration:  0 best:  21798899.91962745
+Counter resetting at iteration: 3
+iteration:  3 best:  21691660.80436633
+Counter resetting at iteration: 1
+iteration:  4 best:  21585374.28229829
+Counter resetting at iteration: 1
+iteration:  5 best:  21354108.04512512
+Counter resetting at iteration: 1
+iteration:  6 best:  21270988.91979984
+Counter resetting at iteration: 1
+iteration:  7 best:  21201352.734323617
+Counter resetting at iteration: 1
+iteration:  8 best:  21196925.713678923
+Counter resetting at iteration: 0
+iteration:  8 best:  21002646.994535845
+Counter resetting at iteration: 1
+iteration:  9 best:  20765778.304706287
+Counter resetting at iteration: 2
+iteration:  11 best:  20765744.74574715
+Counter resetting at iteration: 2
+iteration:  13 best:  20521953.840352356
+Counter resetting at iteration: 1
+iteration:  14 best:  20467191.174413793
+Counter resetting at iteration: 1
+iteration:  15 best:  20429498.47503783
+Counter resetting at iteration: 2
+iteration:  17 best:  20329692.114244733
+Counter resetting at iteration: 3
+iteration:  20 best:  20253676.805258077
+Counter resetting at iteration: 0
+iteration:  20 best:  20046623.126711056
+Counter resetting at iteration: 2
+iteration:  22 best:  19994355.621649504
+Counter resetting at iteration: 1
+iteration:  23 best:  19887195.51621794
+Counter resetting at iteration: 0
+iteration:  23 best:  19886498.292143278
+Counter resetting at iteration: 1
+iteration:  24 best:  19666783.057505608
+Counter resetting at iteration: 1
+iteration:  25 best:  19548161.81205132
+Counter resetting at iteration: 2
+iteration:  27 best:  19521868.590633757
+Counter resetting at iteration: 0
+iteration:  27 best:  18952714.83537255
+Counter resetting at iteration: 2
+iteration:  29 best:  18797259.82609797
+Counter resetting at iteration: 8
+iteration:  37 best:  18351730.663587935
+Counter resetting at iteration: 1
+iteration:  38 best:  18292539.913690545
+Counter resetting at iteration: 8
+iteration:  46 best:  18275864.7681589
+Counter resetting at iteration: 0
+iteration:  46 best:  18116139.592148192
+Counter resetting at iteration: 5
+iteration:  51 best:  18000594.02324748
+Counter resetting at iteration: 2
+iteration:  53 best:  17913413.53984667
+Counter resetting at iteration: 0
+iteration:  53 best:  17779294.089239795
+Counter resetting at iteration: 2
+iteration:  55 best:  17735218.707513377
+Counter resetting at iteration: 2
+iteration:  57 best:  17703617.67579618
+Counter resetting at iteration: 2
+iteration:  59 best:  17700039.718264934
+Counter resetting at iteration: 2
+iteration:  61 best:  17636545.76189591
+Counter resetting at iteration: 0
+iteration:  61 best:  17636522.898296732
+Counter resetting at iteration: 1
+iteration:  62 best:  17600426.870456677
+Counter resetting at iteration: 0
+iteration:  62 best:  17593960.234538022
+Counter resetting at iteration: 1
+iteration:  63 best:  17593115.35379493
+Counter resetting at iteration: 0
+iteration:  63 best:  17578199.247165103
+Counter resetting at iteration: 1
+iteration:  64 best:  17544632.266376935
+Counter resetting at iteration: 1
+iteration:  65 best:  17530091.18107536
+Counter resetting at iteration: 0
+iteration:  65 best:  17517641.853898343
+Counter resetting at iteration: 0
+iteration:  65 best:  17444681.69645776
+Counter resetting at iteration: 2
+iteration:  67 best:  17410652.422645766
+Counter resetting at iteration: 2
+iteration:  69 best:  17404432.86437778
+Counter resetting at iteration: 0
+iteration:  69 best:  17343296.43140379
+Counter resetting at iteration: 1
+iteration:  70 best:  17296754.25067701
+Counter resetting at iteration: 1
+iteration:  71 best:  17287557.624626342
+Counter resetting at iteration: 0
+iteration:  71 best:  17281394.237601697
+Counter resetting at iteration: 1
+iteration:  72 best:  17259067.847127024
+Counter resetting at iteration: 0
+iteration:  72 best:  17218585.05636337
+Counter resetting at iteration: 1
+iteration:  73 best:  17190015.75629885
+Counter resetting at iteration: 2
+iteration:  75 best:  17168119.25194257
+Counter resetting at iteration: 0
+iteration:  75 best:  17138331.131336126
+Counter resetting at iteration: 2
+iteration:  77 best:  17089943.88301582
+Counter resetting at iteration: 1
+iteration:  78 best:  17053631.174503453
+Counter resetting at iteration: 0
+iteration:  78 best:  17052909.76604211
+Counter resetting at iteration: 1
+iteration:  79 best:  17039986.71704418
+Counter resetting at iteration: 2
+iteration:  81 best:  17007813.90358372
+Counter resetting at iteration: 2
+iteration:  83 best:  17003674.008531813
+Counter resetting at iteration: 1
+iteration:  84 best:  16967808.214137908
+Counter resetting at iteration: 2
+iteration:  86 best:  16938149.106505357
+Counter resetting at iteration: 2
+iteration:  88 best:  16862007.6759577
+Counter resetting at iteration: 0
+iteration:  88 best:  16835475.37281203
+Counter resetting at iteration: 2
+iteration:  90 best:  16726171.499765966
+Counter resetting at iteration: 3
+iteration:  93 best:  16544004.343581103
+Counter resetting at iteration: 2
+iteration:  95 best:  16507691.635068737
+Counter resetting at iteration: 1
+iteration:  96 best:  16492589.688860673
+Counter resetting at iteration: 1
+iteration:  97 best:  16444180.452622507
+Counter resetting at iteration: 7
+iteration:  104 best:  16438584.90052567
+Counter resetting at iteration: 1
+iteration:  105 best:  16434228.976096677
+Counter resetting at iteration: 0
+iteration:  105 best:  16376396.741189523
+Counter resetting at iteration: 1
+iteration:  106 best:  16357033.957494901
+Counter resetting at iteration: 2
+iteration:  108 best:  16306746.611721726
+Counter resetting at iteration: 3
+iteration:  111 best:  16293896.525247248
+Counter resetting at iteration: 1
+iteration:  112 best:  16275447.054474844
+Counter resetting at iteration: 1
+iteration:  113 best:  16251493.375500662
+Counter resetting at iteration: 1
+iteration:  114 best:  16197488.587165663
+Counter resetting at iteration: 4
+iteration:  118 best:  16164310.920383768
+Counter resetting at iteration: 0
+iteration:  118 best:  16141009.56335595
+Counter resetting at iteration: 1
+iteration:  119 best:  16095157.694209741
+Counter resetting at iteration: 4
+iteration:  123 best:  16087004.775020948
+Counter resetting at iteration: 0
+iteration:  123 best:  16053827.108239053
+Counter resetting at iteration: 7
+iteration:  130 best:  15994566.847784927
+Counter resetting at iteration: 0
+iteration:  130 best:  15922965.91731896
+Counter resetting at iteration: 0
+iteration:  130 best:  15862165.354768949
+Counter resetting at iteration: 0
+iteration:  130 best:  15787225.392383022
+Counter resetting at iteration: 4
+iteration:  134 best:  15727965.131928897
+Counter resetting at iteration: 1
+iteration:  135 best:  15723432.91073778
+Counter resetting at iteration: 1
+iteration:  136 best:  15656364.20146293
+Counter resetting at iteration: 4
+iteration:  140 best:  15597103.941008804
+Counter resetting at iteration: 2
+iteration:  142 best:  15592571.719817685
+Counter resetting at iteration: 1
+iteration:  143 best:  15574324.92984031
+Counter resetting at iteration: 1
+iteration:  144 best:  15562280.398597544
+Counter resetting at iteration: 2
+iteration:  146 best:  15514858.835791769
+Counter resetting at iteration: 1
+iteration:  147 best:  15503020.138143415
+Counter resetting at iteration: 2
+iteration:  149 best:  15498487.916952295
+Counter resetting at iteration: 0
+iteration:  149 best:  15439595.748611195
+Counter resetting at iteration: 1
+iteration:  150 best:  15431163.780317826
+Counter resetting at iteration: 0
+iteration:  150 best:  15416816.737442696
+Counter resetting at iteration: 2
+iteration:  152 best:  15383742.21751205
+Counter resetting at iteration: 1
+iteration:  153 best:  15349492.600808224
+Counter resetting at iteration: 4
+iteration:  157 best:  15302071.038002452
+Counter resetting at iteration: 0
+iteration:  157 best:  15302065.479806947
+Counter resetting at iteration: 3
+iteration:  160 best:  15214242.059320798
+Counter resetting at iteration: 3
+iteration:  163 best:  15190100.521390872
+Counter resetting at iteration: 1
+iteration:  164 best:  15156793.774238775
+Counter resetting at iteration: 2
+iteration:  166 best:  15144041.485346528
+Counter resetting at iteration: 2
+iteration:  168 best:  15139000.737704504
+Counter resetting at iteration: 0
+iteration:  168 best:  15135420.744050981
+Counter resetting at iteration: 1
+iteration:  169 best:  15116221.726536006
+Counter resetting at iteration: 2
+iteration:  171 best:  15087999.181245206
+Counter resetting at iteration: 1
+iteration:  172 best:  15052791.77880828
+Counter resetting at iteration: 2
+iteration:  174 best:  15031418.748620484
+Counter resetting at iteration: 1
+iteration:  175 best:  15009053.42615289
+Counter resetting at iteration: 2
+iteration:  177 best:  14994779.624902284
+Counter resetting at iteration: 0
+iteration:  177 best:  14945623.478425166
+Counter resetting at iteration: 1
+iteration:  178 best:  14927461.820636312
+Counter resetting at iteration: 2
+iteration:  180 best:  14924250.448237369
+Counter resetting at iteration: 0
+iteration:  180 best:  14923459.702131895
+Counter resetting at iteration: 1
+iteration:  181 best:  14837664.431936577
+Counter resetting at iteration: 2
+iteration:  183 best:  14816291.40174878
+Counter resetting at iteration: 1
+iteration:  184 best:  14781622.127835251
+Counter resetting at iteration: 1
+iteration:  185 best:  14762015.917619746
+Counter resetting at iteration: 1
+iteration:  186 best:  14718291.453788368
+Counter resetting at iteration: 4
+iteration:  190 best:  14683622.17987484
+Counter resetting at iteration: 3
+iteration:  193 best:  14648802.995501412
+Counter resetting at iteration: 1
+iteration:  194 best:  14610910.878286479
+Counter resetting at iteration: 4
+iteration:  198 best:  14591795.85900273
+Counter resetting at iteration: 1
+iteration:  199 best:  14547683.11712837
+Counter resetting at iteration: 1
+iteration:  200 best:  14547596.174216082
+Counter resetting at iteration: 3
+iteration:  203 best:  14547104.983284323
+Counter resetting at iteration: 1
+iteration:  204 best:  14528481.154932333
+Counter resetting at iteration: 3
+iteration:  207 best:  14525909.26894484
+Counter resetting at iteration: 1
+iteration:  208 best:  14484368.413057974
+Counter resetting at iteration: 0
+iteration:  208 best:  14422518.458710762
+Counter resetting at iteration: 2
+iteration:  210 best:  14420801.572791418
+Counter resetting at iteration: 0
+iteration:  210 best:  14406817.93505674
+Counter resetting at iteration: 1
+iteration:  211 best:  14399114.667520175
+Counter resetting at iteration: 4
+iteration:  215 best:  14371642.352278363
+Counter resetting at iteration: 0
+iteration:  215 best:  14310618.43633573
+Counter resetting at iteration: 1
+iteration:  216 best:  14299233.265291272
+Counter resetting at iteration: 2
+iteration:  218 best:  14277519.779317303
+Counter resetting at iteration: 2
+iteration:  220 best:  14275081.842108747
+Counter resetting at iteration: 1
+iteration:  221 best:  14243992.750785554
+Counter resetting at iteration: 2
+iteration:  223 best:  14236384.409235934
+Counter resetting at iteration: 2
+iteration:  225 best:  14235020.412819633
+Counter resetting at iteration: 1
+iteration:  226 best:  14195263.378358535
+Counter resetting at iteration: 4
+iteration:  230 best:  14184836.571344098
+Counter resetting at iteration: 1
+iteration:  231 best:  14098806.54188768
+Counter resetting at iteration: 3
+iteration:  234 best:  14075732.506346324
+Counter resetting at iteration: 4
+iteration:  238 best:  14063630.959109303
+Counter resetting at iteration: 1
+iteration:  239 best:  14059410.518875185
+Counter resetting at iteration: 0
+iteration:  239 best:  14016653.605584258
+Counter resetting at iteration: 1
+iteration:  240 best:  13964889.144615263
+Counter resetting at iteration: 1
+iteration:  241 best:  13960335.258854767
+Counter resetting at iteration: 2
+iteration:  243 best:  13940985.826631574
+Counter resetting at iteration: 2
+iteration:  245 best:  13933862.47758232
+Counter resetting at iteration: 2
+iteration:  247 best:  13930478.16010253
+Counter resetting at iteration: 0
+iteration:  247 best:  13909959.159598632
+Counter resetting at iteration: 1
+iteration:  248 best:  13884355.694901932
+Counter resetting at iteration: 1
+iteration:  249 best:  13876636.290318804
+Counter resetting at iteration: 0
+iteration:  249 best:  13868033.707430793
+Counter resetting at iteration: 1
+iteration:  250 best:  13795336.955108045
+Counter resetting at iteration: 1
+iteration:  251 best:  13778326.427506471
+Counter resetting at iteration: 4
+iteration:  255 best:  13764310.288075102
+Counter resetting at iteration: 1
+iteration:  256 best:  13747299.760473529
+Counter resetting at iteration: 1
+iteration:  257 best:  13745893.874650884
+Counter resetting at iteration: 1
+iteration:  258 best:  13728446.16516629
+Counter resetting at iteration: 2
+iteration:  260 best:  13704126.278706966
+Counter resetting at iteration: 3
+iteration:  263 best:  13678592.531569995
+Counter resetting at iteration: 2
+iteration:  265 best:  13678358.11863055
+Counter resetting at iteration: 1
+iteration:  266 best:  13617971.340318838
+Counter resetting at iteration: 6
+iteration:  272 best:  13617736.927379394
+Counter resetting at iteration: 1
+iteration:  273 best:  13608336.275682988
+Counter resetting at iteration: 2
+iteration:  275 best:  13589482.68037575
+Counter resetting at iteration: 0
+iteration:  275 best:  13586318.21556588
+Counter resetting at iteration: 2
+iteration:  277 best:  13585810.320923222
+Counter resetting at iteration: 1
+iteration:  278 best:  13568569.033002311
+Counter resetting at iteration: 0
+iteration:  278 best:  13562110.906143084
+Counter resetting at iteration: 1
+iteration:  279 best:  13554927.499591244
+Counter resetting at iteration: 0
+iteration:  279 best:  13533856.65913944
+Counter resetting at iteration: 3
+iteration:  282 best:  13512708.598826557
+Counter resetting at iteration: 4
+iteration:  286 best:  13498296.76199451
+Counter resetting at iteration: 0
+iteration:  286 best:  13495020.127834642
+Counter resetting at iteration: 1
+iteration:  287 best:  13494512.23319198
+Counter resetting at iteration: 0
+iteration:  287 best:  13491113.355442667
+Counter resetting at iteration: 1
+iteration:  288 best:  13490878.942503223
+Counter resetting at iteration: 0
+iteration:  288 best:  13480547.579430941
+Counter resetting at iteration: 1
+iteration:  289 best:  13463633.972952787
+Counter resetting at iteration: 1
+iteration:  290 best:  13462859.108439023
+Counter resetting at iteration: 0
+iteration:  290 best:  13431472.953557167
+Counter resetting at iteration: 1
+iteration:  291 best:  13413723.770993598
+Counter resetting at iteration: 2
+iteration:  293 best:  13368164.892780825
+Counter resetting at iteration: 6
+iteration:  299 best:  13350181.297277812
+Counter resetting at iteration: 2
+iteration:  301 best:  13275950.716833279
+Counter resetting at iteration: 5
+iteration:  306 best:  13275716.303893834
+Counter resetting at iteration: 2
+iteration:  308 best:  13231482.964473741
+Counter resetting at iteration: 2
+iteration:  310 best:  13200624.200066177
+Counter resetting at iteration: 3
+iteration:  313 best:  13108318.039917918
+Counter resetting at iteration: 3
+iteration:  316 best:  13090334.4444149
+Counter resetting at iteration: 1
+iteration:  317 best:  13067859.756736474
+Counter resetting at iteration: 5
+iteration:  322 best:  13050110.574172903
+Counter resetting at iteration: 0
+iteration:  322 best:  13015242.56994648
+Counter resetting at iteration: 3
+iteration:  325 best:  13010132.849260172
+Counter resetting at iteration: 1
+iteration:  326 best:  12992383.666696599
+Counter resetting at iteration: 0
+iteration:  326 best:  12969908.979018172
+Counter resetting at iteration: 1
+iteration:  327 best:  12965907.889291264
+Counter resetting at iteration: 2
+iteration:  329 best:  12965665.24221208
+Counter resetting at iteration: 0
+iteration:  329 best:  12952159.796454601
+Counter resetting at iteration: 1
+iteration:  330 best:  12924430.874727266
+Counter resetting at iteration: 6
+iteration:  336 best:  12885206.701059392
+Counter resetting at iteration: 1
+iteration:  337 best:  12880205.91475836
+Counter resetting at iteration: 7
+iteration:  344 best:  12877214.082545528
+Counter resetting at iteration: 0
+iteration:  344 best:  12876158.119066518
+Counter resetting at iteration: 0
+iteration:  344 best:  12871495.692165889
+Counter resetting at iteration: 3
+iteration:  347 best:  12860270.706061546
+Counter resetting at iteration: 3
+iteration:  350 best:  12851560.483469075
+Counter resetting at iteration: 2
+iteration:  352 best:  12720350.64516702
+Counter resetting at iteration: 4
+iteration:  356 best:  12711640.42257455
+Counter resetting at iteration: 6
+iteration:  362 best:  12708648.590361718
+Counter resetting at iteration: 1
+iteration:  363 best:  12706264.691997204
+Counter resetting at iteration: 3
+iteration:  366 best:  12646728.09012465
+Counter resetting at iteration: 1
+iteration:  367 best:  12586587.871458896
+Counter resetting at iteration: 4
+iteration:  371 best:  12582540.075767053
+Counter resetting at iteration: 1
+iteration:  372 best:  12579548.243554221
+Counter resetting at iteration: 0
+iteration:  372 best:  12521675.539008996
+Counter resetting at iteration: 2
+iteration:  374 best:  12520011.64168167
+Counter resetting at iteration: 0
+iteration:  374 best:  12518683.706796164
+Counter resetting at iteration: 4
+iteration:  378 best:  12514635.911104321
+Counter resetting at iteration: 0
+iteration:  378 best:  12483936.335344762
+Counter resetting at iteration: 2
+iteration:  380 best:  12479888.539652921
+Counter resetting at iteration: 2
+iteration:  382 best:  12464023.855167752
+Counter resetting at iteration: 3
+iteration:  385 best:  12459976.05947591
+Counter resetting at iteration: 1
+iteration:  386 best:  12457986.040050197
+Counter resetting at iteration: 0
+iteration:  386 best:  12396543.250975719
+Counter resetting at iteration: 3
+iteration:  389 best:  12376630.770798707
+Counter resetting at iteration: 2
+iteration:  391 best:  12370553.420157969
+Counter resetting at iteration: 0
+iteration:  391 best:  12337868.71894422
+Counter resetting at iteration: 2
+iteration:  393 best:  12332492.988366874
+Counter resetting at iteration: 2
+iteration:  395 best:  12328993.601266848
+Counter resetting at iteration: 0
+iteration:  395 best:  12283160.335788926
+Counter resetting at iteration: 3
+iteration:  398 best:  12263247.855611915
+Counter resetting at iteration: 3
+iteration:  401 best:  12225523.0885574
+Counter resetting at iteration: 4
+iteration:  405 best:  12219106.695881221
+Counter resetting at iteration: 2
+iteration:  407 best:  12205390.31606162
+Counter resetting at iteration: 0
+iteration:  407 best:  12185477.835884608
+Counter resetting at iteration: 4
+iteration:  411 best:  12171831.766338779
+Counter resetting at iteration: 5
+iteration:  416 best:  12164531.779195357
+Counter resetting at iteration: 1
+iteration:  417 best:  12158115.386519179
+Counter resetting at iteration: 0
+iteration:  417 best:  12142303.698505962
+Counter resetting at iteration: 3
+iteration:  420 best:  12128657.628960133
+Counter resetting at iteration: 1
+iteration:  421 best:  12114941.24914053
+Counter resetting at iteration: 5
+iteration:  426 best:  12112834.830512222
+Counter resetting at iteration: 1
+iteration:  427 best:  12107870.944531828
+Counter resetting at iteration: 1
+iteration:  428 best:  12099118.450692622
+Counter resetting at iteration: 5
+iteration:  433 best:  12092048.14608392
+Counter resetting at iteration: 1
+iteration:  434 best:  12082980.112075325
+Counter resetting at iteration: 1
+iteration:  435 best:  12010209.011770949
+Counter resetting at iteration: 4
+iteration:  439 best:  11994386.21332304
+Counter resetting at iteration: 1
+iteration:  440 best:  11988165.312118938
+Counter resetting at iteration: 0
+iteration:  440 best:  11987315.908714335
+Counter resetting at iteration: 0
+iteration:  440 best:  11975985.152746378
+Counter resetting at iteration: 1
+iteration:  441 best:  11968914.848137673
+Counter resetting at iteration: 2
+iteration:  443 best:  11959846.814129079
+Counter resetting at iteration: 1
+iteration:  444 best:  11953622.275033016
+Counter resetting at iteration: 1
+iteration:  445 best:  11946130.434309479
+Counter resetting at iteration: 2
+iteration:  447 best:  11930837.861204823
+Counter resetting at iteration: 4
+iteration:  451 best:  11915116.488206407
+Counter resetting at iteration: 3
+iteration:  454 best:  11910935.287546536
+Counter resetting at iteration: 1
+iteration:  455 best:  11899823.915101752
+Counter resetting at iteration: 2
+iteration:  457 best:  11864180.415805686
+Counter resetting at iteration: 4
+iteration:  461 best:  11848887.84270103
+Counter resetting at iteration: 0
+iteration:  461 best:  11844277.842147399
+Counter resetting at iteration: 2
+iteration:  463 best:  11817873.89659796
+Counter resetting at iteration: 2
+iteration:  465 best:  11801093.113113578
+Counter resetting at iteration: 2
+iteration:  467 best:  11790216.832518334
+Counter resetting at iteration: 0
+iteration:  467 best:  11788643.465528984
+Counter resetting at iteration: 0
+iteration:  467 best:  11756873.18857166
+Counter resetting at iteration: 4
+iteration:  471 best:  11720754.575737378
+Counter resetting at iteration: 3
+iteration:  474 best:  11705462.002632722
+Counter resetting at iteration: 0
+iteration:  474 best:  11691114.465460017
+Counter resetting at iteration: 2
+iteration:  476 best:  11676231.571563747
+Counter resetting at iteration: 1
+iteration:  477 best:  11671313.011397721
+Counter resetting at iteration: 0
+iteration:  477 best:  11631973.532883588
+Counter resetting at iteration: 2
+iteration:  479 best:  11606125.016175503
+Counter resetting at iteration: 2
+iteration:  481 best:  11561705.928814305
+Counter resetting at iteration: 4
+iteration:  485 best:  11545633.285386443
+Counter resetting at iteration: 2
+iteration:  487 best:  11544553.58025978
+Counter resetting at iteration: 1
+iteration:  488 best:  11495597.772109492
+Counter resetting at iteration: 3
+iteration:  491 best:  11484397.275066547
+Counter resetting at iteration: 0
+iteration:  491 best:  11480380.609200194
+Counter resetting at iteration: 6
+iteration:  497 best:  11453293.5901153
+Total iterations:  500
+Best Solution:  11453293.5901153
+Trial run5:
+Time: 2019-10-22 10:46:54.865503
+Best initial sol:  22282808.034219474
+Counter resetting at iteration: 0
+iteration:  0 best:  22141774.20622913
+Counter resetting at iteration: 2
+iteration:  2 best:  21695262.025009383
+Counter resetting at iteration: 1
+iteration:  3 best:  21637882.233817548
+Counter resetting at iteration: 3
+iteration:  6 best:  21469711.832366977
+Counter resetting at iteration: 2
+iteration:  8 best:  21209490.393375963
+Counter resetting at iteration: 1
+iteration:  9 best:  21200750.603633106
+Counter resetting at iteration: 1
+iteration:  10 best:  20906989.464554735
+Counter resetting at iteration: 1
+iteration:  11 best:  20429432.464835588
+Counter resetting at iteration: 2
+iteration:  13 best:  20340718.175699554
+Counter resetting at iteration: 1
+iteration:  14 best:  20327655.462426
+Counter resetting at iteration: 0
+iteration:  14 best:  20238888.898280874
+Counter resetting at iteration: 1
+iteration:  15 best:  20092790.2639891
+Counter resetting at iteration: 4
+iteration:  19 best:  19803376.988826446
+Counter resetting at iteration: 3
+iteration:  22 best:  19745095.117145903
+Counter resetting at iteration: 0
+iteration:  22 best:  19563042.080327153
+Counter resetting at iteration: 3
+iteration:  25 best:  19475042.481925808
+Counter resetting at iteration: 1
+iteration:  26 best:  19176883.360479776
+Counter resetting at iteration: 8
+iteration:  34 best:  18880455.51083556
+Counter resetting at iteration: 1
+iteration:  35 best:  18804926.83688656
+Counter resetting at iteration: 4
+iteration:  39 best:  18803512.481801808
+Counter resetting at iteration: 1
+iteration:  40 best:  18609562.646681644
+Counter resetting at iteration: 2
+iteration:  42 best:  18535357.144994907
+Counter resetting at iteration: 1
+iteration:  43 best:  18353854.400605313
+Counter resetting at iteration: 2
+iteration:  45 best:  18293232.201002788
+Counter resetting at iteration: 0
+iteration:  45 best:  18210350.564666376
+Counter resetting at iteration: 1
+iteration:  46 best:  17901282.590500467
+Counter resetting at iteration: 3
+iteration:  49 best:  17841038.624762762
+Counter resetting at iteration: 3
+iteration:  52 best:  17787602.860735375
+Counter resetting at iteration: 1
+iteration:  53 best:  17770883.045850005
+Counter resetting at iteration: 1
+iteration:  54 best:  17687262.653231435
+Counter resetting at iteration: 0
+iteration:  54 best:  17594689.368040174
+Counter resetting at iteration: 3
+iteration:  57 best:  17150264.686053414
+Counter resetting at iteration: 4
+iteration:  61 best:  17046381.814088225
+Counter resetting at iteration: 0
+iteration:  61 best:  16868123.056668412
+Counter resetting at iteration: 3
+iteration:  64 best:  16861049.558112297
+Counter resetting at iteration: 0
+iteration:  64 best:  16790757.26766742
+Counter resetting at iteration: 1
+iteration:  65 best:  16758117.736891843
+Counter resetting at iteration: 1
+iteration:  66 best:  16505640.710617548
+Counter resetting at iteration: 5
+iteration:  71 best:  16407607.474042153
+Counter resetting at iteration: 1
+iteration:  72 best:  16372583.568217117
+Counter resetting at iteration: 2
+iteration:  74 best:  16369259.20414541
+Counter resetting at iteration: 0
+iteration:  74 best:  16322286.949227225
+Counter resetting at iteration: 1
+iteration:  75 best:  16304104.931300862
+Counter resetting at iteration: 0
+iteration:  75 best:  16287761.816552708
+Counter resetting at iteration: 1
+iteration:  76 best:  16222837.610853165
+Counter resetting at iteration: 0
+iteration:  76 best:  16150901.004465438
+Counter resetting at iteration: 0
+iteration:  76 best:  16123568.195601307
+Counter resetting at iteration: 2
+iteration:  78 best:  15882342.670559805
+Counter resetting at iteration: 2
+iteration:  80 best:  15855358.793029381
+Counter resetting at iteration: 2
+iteration:  82 best:  15796087.149940887
+Counter resetting at iteration: 1
+iteration:  83 best:  15711792.181394605
+Counter resetting at iteration: 1
+iteration:  84 best:  15683591.733319012
+Counter resetting at iteration: 4
+iteration:  88 best:  15588738.361630024
+Counter resetting at iteration: 4
+iteration:  92 best:  15516666.528432567
+Counter resetting at iteration: 5
+iteration:  97 best:  15486336.942071285
+Counter resetting at iteration: 1
+iteration:  98 best:  15465899.050566642
+Counter resetting at iteration: 1
+iteration:  99 best:  15435569.464205358
+Counter resetting at iteration: 3
+iteration:  102 best:  15426708.39520589
+Counter resetting at iteration: 1
+iteration:  103 best:  15396378.808844607
+Counter resetting at iteration: 3
+iteration:  106 best:  15304011.127824662
+Counter resetting at iteration: 4
+iteration:  110 best:  15294661.96009839
+Counter resetting at iteration: 1
+iteration:  111 best:  15273720.012140544
+Counter resetting at iteration: 2
+iteration:  113 best:  15225180.189053517
+Counter resetting at iteration: 2
+iteration:  115 best:  15207518.18164069
+Counter resetting at iteration: 2
+iteration:  117 best:  15177227.065956572
+Counter resetting at iteration: 1
+iteration:  118 best:  15128687.242869545
+Counter resetting at iteration: 3
+iteration:  121 best:  15087430.8765595
+Counter resetting at iteration: 2
+iteration:  123 best:  15082375.589319425
+Counter resetting at iteration: 2
+iteration:  125 best:  15057139.760875382
+Counter resetting at iteration: 2
+iteration:  127 best:  15038891.053472472
+Counter resetting at iteration: 0
+iteration:  127 best:  15008599.937788354
+Counter resetting at iteration: 1
+iteration:  128 best:  14962288.284238236
+Counter resetting at iteration: 8
+iteration:  136 best:  14934787.090415988
+Counter resetting at iteration: 1
+iteration:  137 best:  14925856.787479509
+Counter resetting at iteration: 1
+iteration:  138 best:  14915977.225262495
+Counter resetting at iteration: 3
+iteration:  141 best:  14838992.14772649
+Counter resetting at iteration: 3
+iteration:  144 best:  14816594.386049854
+Counter resetting at iteration: 2
+iteration:  146 best:  14808701.032042371
+Counter resetting at iteration: 0
+iteration:  146 best:  14772269.535283642
+Counter resetting at iteration: 6
+iteration:  152 best:  14737408.98909893
+Counter resetting at iteration: 0
+iteration:  152 best:  14703177.81175512
+Counter resetting at iteration: 1
+iteration:  153 best:  14672886.696071003
+Counter resetting at iteration: 3
+iteration:  156 best:  14660750.690324455
+Counter resetting at iteration: 1
+iteration:  157 best:  14638026.149886291
+Counter resetting at iteration: 2
+iteration:  159 best:  14475153.31136547
+Counter resetting at iteration: 6
+iteration:  165 best:  14408220.077368284
+Counter resetting at iteration: 3
+iteration:  168 best:  14398495.012590995
+Counter resetting at iteration: 1
+iteration:  169 best:  14389957.210404247
+Counter resetting at iteration: 5
+iteration:  174 best:  14372610.99743558
+Counter resetting at iteration: 1
+iteration:  175 best:  14332341.352790283
+Counter resetting at iteration: 0
+iteration:  175 best:  14320361.620575527
+Counter resetting at iteration: 1
+iteration:  176 best:  14313298.911629772
+Counter resetting at iteration: 0
+iteration:  176 best:  14295952.698661104
+Counter resetting at iteration: 4
+iteration:  180 best:  14256616.474133195
+Counter resetting at iteration: 0
+iteration:  180 best:  14235100.633694397
+Counter resetting at iteration: 4
+iteration:  184 best:  14178418.196197823
+Counter resetting at iteration: 5
+iteration:  189 best:  14132321.313392768
+Counter resetting at iteration: 6
+iteration:  195 best:  14111484.962200638
+Counter resetting at iteration: 5
+iteration:  200 best:  14082509.285591977
+Counter resetting at iteration: 2
+iteration:  202 best:  14056465.044194758
+Counter resetting at iteration: 2
+iteration:  204 best:  14054044.019432759
+Counter resetting at iteration: 2
+iteration:  206 best:  14027489.367586095
+Counter resetting at iteration: 0
+iteration:  206 best:  14025384.836803397
+Counter resetting at iteration: 3
+iteration:  209 best:  14019331.143339278
+Counter resetting at iteration: 1
+iteration:  210 best:  14011451.821027998
+Counter resetting at iteration: 0
+iteration:  210 best:  14000362.161569742
+Counter resetting at iteration: 0
+iteration:  210 best:  13995238.884411138
+Counter resetting at iteration: 2
+iteration:  212 best:  13980371.613636637
+Counter resetting at iteration: 0
+iteration:  212 best:  13922811.553826364
+Counter resetting at iteration: 4
+iteration:  216 best:  13865687.105037782
+Counter resetting at iteration: 4
+iteration:  220 best:  13851895.19318292
+Counter resetting at iteration: 1
+iteration:  221 best:  13837221.838878565
+Counter resetting at iteration: 1
+iteration:  222 best:  13823429.927023701
+Counter resetting at iteration: 2
+iteration:  224 best:  13822528.225534227
+Counter resetting at iteration: 1
+iteration:  225 best:  13800427.778159438
+Counter resetting at iteration: 2
+iteration:  227 best:  13739211.451182084
+Counter resetting at iteration: 6
+iteration:  233 best:  13673952.12430374
+Counter resetting at iteration: 1
+iteration:  234 best:  13630793.244800184
+Counter resetting at iteration: 2
+iteration:  236 best:  13617001.33294532
+Counter resetting at iteration: 1
+iteration:  237 best:  13612877.463917544
+Counter resetting at iteration: 2
+iteration:  239 best:  13604057.486195616
+Counter resetting at iteration: 2
+iteration:  241 best:  13553471.513621625
+Counter resetting at iteration: 2
+iteration:  243 best:  13521451.738678092
+Counter resetting at iteration: 1
+iteration:  244 best:  13508507.891928388
+Counter resetting at iteration: 2
+iteration:  246 best:  13457921.919354398
+Counter resetting at iteration: 3
+iteration:  249 best:  13437488.684048291
+Counter resetting at iteration: 5
+iteration:  254 best:  13423696.772193428
+Counter resetting at iteration: 1
+iteration:  255 best:  13409081.263877127
+Counter resetting at iteration: 2
+iteration:  257 best:  13395289.352022264
+Counter resetting at iteration: 1
+iteration:  258 best:  13390476.807925092
+Counter resetting at iteration: 1
+iteration:  259 best:  13362960.903895617
+Counter resetting at iteration: 1
+iteration:  260 best:  13327844.240592958
+Counter resetting at iteration: 3
+iteration:  263 best:  13309307.704321174
+Counter resetting at iteration: 0
+iteration:  263 best:  13295515.79246631
+Counter resetting at iteration: 3
+iteration:  266 best:  13267108.372295147
+Counter resetting at iteration: 3
+iteration:  269 best:  13264307.391545536
+Counter resetting at iteration: 2
+iteration:  271 best:  13235899.97137437
+Counter resetting at iteration: 5
+iteration:  276 best:  13229209.496054374
+Counter resetting at iteration: 1
+iteration:  277 best:  13226408.515304763
+Counter resetting at iteration: 3
+iteration:  280 best:  13198001.095133597
+Counter resetting at iteration: 0
+iteration:  280 best:  13197879.66077771
+Counter resetting at iteration: 2
+iteration:  282 best:  13192282.531661754
+Counter resetting at iteration: 2
+iteration:  284 best:  13181562.860066675
+Counter resetting at iteration: 0
+iteration:  284 best:  13180546.998612182
+Counter resetting at iteration: 1
+iteration:  285 best:  13142648.12237141
+Counter resetting at iteration: 1
+iteration:  286 best:  13131573.364365773
+Counter resetting at iteration: 2
+iteration:  288 best:  13125854.80089393
+Counter resetting at iteration: 0
+iteration:  288 best:  13106124.916625371
+Counter resetting at iteration: 0
+iteration:  288 best:  13076220.391603585
+Counter resetting at iteration: 3
+iteration:  291 best:  13015211.93166915
+Counter resetting at iteration: 6
+iteration:  297 best:  12997785.199983798
+Counter resetting at iteration: 1
+iteration:  298 best:  12997237.390180739
+Counter resetting at iteration: 0
+iteration:  298 best:  12928276.119123777
+Counter resetting at iteration: 4
+iteration:  302 best:  12897799.425404176
+Counter resetting at iteration: 2
+iteration:  304 best:  12878492.928379677
+Counter resetting at iteration: 3
+iteration:  307 best:  12873181.734933656
+Counter resetting at iteration: 0
+iteration:  307 best:  12862995.460135534
+Counter resetting at iteration: 0
+iteration:  307 best:  12799840.891291624
+Counter resetting at iteration: 4
+iteration:  311 best:  12783028.150082799
+Counter resetting at iteration: 0
+iteration:  311 best:  12776433.02056021
+Counter resetting at iteration: 0
+iteration:  311 best:  12745436.12776131
+Counter resetting at iteration: 1
+iteration:  312 best:  12742664.58171499
+Counter resetting at iteration: 1
+iteration:  313 best:  12727734.500519259
+Counter resetting at iteration: 1
+iteration:  314 best:  12718046.891244471
+Counter resetting at iteration: 2
+iteration:  316 best:  12693966.061674038
+Counter resetting at iteration: 1
+iteration:  317 best:  12669348.37120352
+Counter resetting at iteration: 2
+iteration:  319 best:  12667532.732509172
+Counter resetting at iteration: 2
+iteration:  321 best:  12662753.241680931
+Counter resetting at iteration: 1
+iteration:  322 best:  12625475.257276122
+Counter resetting at iteration: 5
+iteration:  327 best:  12618880.127753533
+Counter resetting at iteration: 0
+iteration:  327 best:  12612239.082945632
+Counter resetting at iteration: 1
+iteration:  328 best:  12609356.005255375
+Counter resetting at iteration: 1
+iteration:  329 best:  12572334.394080408
+Counter resetting at iteration: 1
+iteration:  330 best:  12565482.891327977
+Counter resetting at iteration: 1
+iteration:  331 best:  12536959.718602782
+Counter resetting at iteration: 0
+iteration:  331 best:  12528461.28015301
+Counter resetting at iteration: 2
+iteration:  333 best:  12497202.54487459
+Counter resetting at iteration: 2
+iteration:  335 best:  12443805.308449034
+Counter resetting at iteration: 1
+iteration:  336 best:  12421424.437618194
+Counter resetting at iteration: 2
+iteration:  338 best:  12414829.308095606
+Counter resetting at iteration: 2
+iteration:  340 best:  12399932.194521638
+Counter resetting at iteration: 1
+iteration:  341 best:  12393337.06499905
+Counter resetting at iteration: 0
+iteration:  341 best:  12377551.323690796
+Counter resetting at iteration: 1
+iteration:  342 best:  12370956.194168208
+Counter resetting at iteration: 0
+iteration:  342 best:  12318558.452564072
+Counter resetting at iteration: 4
+iteration:  346 best:  12301957.969882678
+Counter resetting at iteration: 1
+iteration:  347 best:  12296177.581733234
+Counter resetting at iteration: 1
+iteration:  348 best:  12170740.918399436
+Counter resetting at iteration: 4
+iteration:  352 best:  12148360.047568597
+Counter resetting at iteration: 6
+iteration:  358 best:  12120500.022576494
+Counter resetting at iteration: 2
+iteration:  360 best:  12109790.775853263
+Counter resetting at iteration: 0
+iteration:  360 best:  12104010.38770382
+Counter resetting at iteration: 1
+iteration:  361 best:  12081629.516872982
+Counter resetting at iteration: 6
+iteration:  367 best:  12032077.913739035
+Counter resetting at iteration: 4
+iteration:  371 best:  12026598.759577772
+Counter resetting at iteration: 2
+iteration:  373 best:  12004217.888746934
+Counter resetting at iteration: 3
+iteration:  376 best:  12002468.919823172
+Counter resetting at iteration: 6
+iteration:  382 best:  11974608.89483107
+Counter resetting at iteration: 1
+iteration:  383 best:  11948339.319607574
+Counter resetting at iteration: 5
+iteration:  388 best:  11929050.535934167
+Counter resetting at iteration: 4
+iteration:  392 best:  11917881.798352752
+Counter resetting at iteration: 2
+iteration:  394 best:  11891612.223129258
+Counter resetting at iteration: 1
+iteration:  395 best:  11881564.10885276
+Counter resetting at iteration: 1
+iteration:  396 best:  11872323.43945585
+Counter resetting at iteration: 1
+iteration:  397 best:  11846053.864232356
+Counter resetting at iteration: 3
+iteration:  400 best:  11816202.13440507
+Counter resetting at iteration: 3
+iteration:  403 best:  11808859.011853322
+Counter resetting at iteration: 1
+iteration:  404 best:  11806154.020128576
+Counter resetting at iteration: 0
+iteration:  404 best:  11770643.77550817
+Counter resetting at iteration: 0
+iteration:  404 best:  11745389.847318124
+Counter resetting at iteration: 4
+iteration:  408 best:  11736155.62709146
+Counter resetting at iteration: 4
+iteration:  412 best:  11727003.981378976
+Counter resetting at iteration: 1
+iteration:  413 best:  11681445.622482074
+Counter resetting at iteration: 4
+iteration:  417 best:  11673384.252233304
+Counter resetting at iteration: 6
+iteration:  423 best:  11666041.129681554
+Counter resetting at iteration: 3
+iteration:  426 best:  11662113.639412742
+Counter resetting at iteration: 2
+iteration:  428 best:  11653273.099194776
+Counter resetting at iteration: 2
+iteration:  430 best:  11645929.976643026
+Counter resetting at iteration: 1
+iteration:  431 best:  11645121.049099619
+Counter resetting at iteration: 2
+iteration:  433 best:  11633941.116125442
+Counter resetting at iteration: 1
+iteration:  434 best:  11629403.202664953
+Counter resetting at iteration: 2
+iteration:  436 best:  11620539.994486699
+Counter resetting at iteration: 2
+iteration:  438 best:  11618017.586505095
+Counter resetting at iteration: 0
+iteration:  438 best:  11609292.049626425
+Counter resetting at iteration: 6
+iteration:  444 best:  11606769.64164482
+Counter resetting at iteration: 1
+iteration:  445 best:  11579204.606133966
+Counter resetting at iteration: 2
+iteration:  447 best:  11574383.891563818
+Counter resetting at iteration: 1
+iteration:  448 best:  11548624.678204358
+Counter resetting at iteration: 1
+iteration:  449 best:  11543803.963634212
+Counter resetting at iteration: 3
+iteration:  452 best:  11528025.989877649
+Counter resetting at iteration: 4
+iteration:  456 best:  11527431.105471125
+Counter resetting at iteration: 4
+iteration:  460 best:  11517687.33130632
+Counter resetting at iteration: 0
+iteration:  460 best:  11509487.885023355
+Counter resetting at iteration: 2
+iteration:  462 best:  11501549.878065083
+Counter resetting at iteration: 2
+iteration:  464 best:  11500127.093733905
+Counter resetting at iteration: 1
+iteration:  465 best:  11491806.103900278
+Counter resetting at iteration: 4
+iteration:  469 best:  11491211.219493754
+Counter resetting at iteration: 0
+iteration:  469 best:  11489788.435162576
+Counter resetting at iteration: 5
+iteration:  474 best:  11460075.641313817
+Counter resetting at iteration: 3
+iteration:  477 best:  11457081.060694706
+Counter resetting at iteration: 4
+iteration:  481 best:  11438287.443285413
+Counter resetting at iteration: 1
+iteration:  482 best:  11425945.48251477
+Counter resetting at iteration: 3
+iteration:  485 best:  11412216.89068638
+Counter resetting at iteration: 3
+iteration:  488 best:  11407840.336341698
+Counter resetting at iteration: 0
+iteration:  488 best:  11407151.865105476
+Counter resetting at iteration: 1
+iteration:  489 best:  11390821.997413913
+Counter resetting at iteration: 2
+iteration:  491 best:  11377154.280334847
+Counter resetting at iteration: 1
+iteration:  492 best:  11370605.595673442
+Counter resetting at iteration: 3
+iteration:  495 best:  11370280.03429017
+Counter resetting at iteration: 0
+iteration:  495 best:  11359049.134161774
+Counter resetting at iteration: 1
+iteration:  496 best:  11354817.879486034
+Counter resetting at iteration: 1
+iteration:  497 best:  11328273.726075739
+Counter resetting at iteration: 1
+iteration:  498 best:  11310168.579902666
+Total iterations:  500
+Best Solution:  11310168.579902666

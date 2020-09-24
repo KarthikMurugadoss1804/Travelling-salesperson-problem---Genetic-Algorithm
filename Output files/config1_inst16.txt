@@ -1,0 +1,17 @@
+Trial run1:
+Time: 2019-10-20 05:32:33.694264
+Best initial sol:  109855454.44104533
+Total iterations:  150
+Best Solution:  109855454.44104533
+Trial run2:
+Time: 2019-10-20 07:28:51.796105
+Best initial sol:  111449126.71925274
+Total iterations:  150
+Best Solution:  111449126.71925274
+Trial run3:
+Time: 2019-10-20 09:26:47.339284
+Best initial sol:  113821430.3610312
+Counter resetting at iteration: 17
+iteration:  17 best:  113463630.72017175
+Counter resetting at iteration: 12
+iteration:  29 best:  113400894.24919645

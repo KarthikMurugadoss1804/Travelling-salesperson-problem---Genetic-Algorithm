@@ -1,0 +1,619 @@
+
+Running Standard Setting Population=100 Mutation=0.1 Iterations=500
+Configuration1
+Trial run:0
+Time:2019-10-20 18:34:39.005527
+Best initial sol: 22089656.782984156
+Counter resetting at iteration:31
+iteration: 31best: 21796360.828526314
+Counter resetting at iteration:4
+iteration: 35best: 21372321.203195717
+Counter resetting at iteration:104
+iteration: 139best: 21282124.081168763
+Total iterations: 500
+Best Solution: 21282124.081168763
+Trial run:1
+Time:2019-10-20 18:57:43.260583
+Best initial sol: 21885329.242375378
+Counter resetting at iteration:34
+iteration: 34best: 21466696.5797402
+Counter resetting at iteration:25
+iteration: 59best: 21424125.200754013
+Counter resetting at iteration:195
+iteration: 254best: 21328233.34136512
+Total iterations: 500
+Best Solution: 21328233.34136512
+Trial run:2
+Time:2019-10-20 19:20:45.263393
+Best initial sol: 21968946.134484045
+Counter resetting at iteration:59
+iteration: 59best: 21938731.547087926
+Counter resetting at iteration:24
+iteration: 83best: 21624766.724082306
+Counter resetting at iteration:30
+iteration: 113best: 21572375.455940314
+Counter resetting at iteration:86
+iteration: 199best: 21031438.13486926
+Total iterations: 500
+Best Solution: 21031438.13486926
+Trial run:3
+Time:2019-10-20 19:43:45.069102
+Best initial sol: 22115320.93870597
+Counter resetting at iteration:4
+iteration: 4best: 22064722.740769133
+Counter resetting at iteration:10
+iteration: 14best: 21882583.01629669
+Counter resetting at iteration:8
+iteration: 22best: 21620160.916836977
+Counter resetting at iteration:132
+iteration: 154best: 21354821.204064064
+Total iterations: 500
+Best Solution: 21354821.204064064
+Trial run:4
+Time:2019-10-20 20:06:44.605345
+Best initial sol: 21794984.700102117
+Counter resetting at iteration:63
+iteration: 63best: 21720372.40354823
+Counter resetting at iteration:14
+iteration: 77best: 21521523.09804603
+Counter resetting at iteration:236
+iteration: 313best: 21508724.021633223
+Counter resetting at iteration:89
+iteration: 402best: 21507955.504102793
+Total iterations: 500
+Best Solution: 21507955.504102793
+Configuration2
+Trial run:0
+Time:2019-10-20 20:29:44.300872
+Best initial sol: 22211628.749075707
+Counter resetting at iteration:10
+iteration: 10best: 21825067.44709897
+Counter resetting at iteration:8
+iteration: 18best: 21651719.079641923
+Counter resetting at iteration:50
+iteration: 68best: 21479151.927736826
+Total iterations: 500
+Best Solution: 21479151.927736826
+Trial run:1
+Time:2019-10-20 20:31:12.416668
+Best initial sol: 22053913.126258414
+Counter resetting at iteration:2
+iteration: 2best: 21925170.91855715
+Counter resetting at iteration:15
+iteration: 17best: 21851634.30816355
+Counter resetting at iteration:26
+iteration: 43best: 21770905.36707311
+Counter resetting at iteration:60
+iteration: 103best: 21718054.030736864
+Counter resetting at iteration:51
+iteration: 154best: 21570189.583503824
+Counter resetting at iteration:32
+iteration: 186best: 21552467.27588866
+Counter resetting at iteration:175
+iteration: 361best: 21544619.915254116
+Counter resetting at iteration:107
+iteration: 468best: 21521566.767786555
+Total iterations: 500
+Best Solution: 21521566.767786555
+Trial run:2
+Time:2019-10-20 20:32:40.517795
+Best initial sol: 21557447.192722104
+Counter resetting at iteration:110
+iteration: 110best: 21531241.184496786
+Counter resetting at iteration:157
+iteration: 267best: 21422470.92824322
+Total iterations: 500
+Best Solution: 21422470.92824322
+Trial run:3
+Time:2019-10-20 20:34:08.972786
+Best initial sol: 21843560.020801473
+Counter resetting at iteration:11
+iteration: 11best: 21767360.51260773
+Counter resetting at iteration:4
+iteration: 15best: 21473246.8414372
+Counter resetting at iteration:19
+iteration: 34best: 21426407.8297272
+Counter resetting at iteration:87
+iteration: 121best: 21068932.20183212
+Counter resetting at iteration:55
+iteration: 176best: 20778283.526327245
+Counter resetting at iteration:255
+iteration: 431best: 20586766.160701063
+Total iterations: 500
+Best Solution: 20586766.160701063
+Trial run:4
+Time:2019-10-20 20:35:37.088316
+Best initial sol: 22086125.62459342
+Counter resetting at iteration:3
+iteration: 3best: 21980188.51482247
+Counter resetting at iteration:34
+iteration: 37best: 21482888.099602535
+Counter resetting at iteration:20
+iteration: 57best: 21365638.283549692
+Counter resetting at iteration:170
+iteration: 227best: 21329271.109145127
+Counter resetting at iteration:135
+iteration: 362best: 21311403.116033595
+Counter resetting at iteration:11
+iteration: 373best: 21253777.601751618
+Total iterations: 500
+Best Solution: 21253777.601751618
+Configuration3
+Trial run:0
+Time:2019-10-20 20:37:05.327634
+Best initial sol: 22318778.61986558
+Counter resetting at iteration:0
+iteration: 0best: 21754351.279648237
+Counter resetting at iteration:3
+iteration: 3best: 21418969.445115395
+Counter resetting at iteration:124
+iteration: 127best: 21331018.647110257
+Counter resetting at iteration:136
+iteration: 263best: 21150749.509073004
+Counter resetting at iteration:147
+iteration: 410best: 21027384.674898364
+Total iterations: 500
+Best Solution: 21027384.674898364
+Trial run:1
+Time:2019-10-20 21:00:20.017535
+Best initial sol: 22149087.283428196
+Counter resetting at iteration:2
+iteration: 2best: 21826192.758280266
+Counter resetting at iteration:9
+iteration: 11best: 21476537.23498549
+Counter resetting at iteration:184
+iteration: 195best: 20708143.37046383
+Total iterations: 500
+Best Solution: 20708143.37046383
+Trial run:2
+Time:2019-10-20 21:23:34.165663
+Best initial sol: 22384518.891138
+Counter resetting at iteration:0
+iteration: 0best: 22377655.26517888
+Counter resetting at iteration:1
+iteration: 1best: 21755343.993222233
+Counter resetting at iteration:20
+iteration: 21best: 21448469.306841165
+Counter resetting at iteration:384
+iteration: 405best: 21271688.714864533
+Total iterations: 500
+Best Solution: 21271688.714864533
+Trial run:3
+Time:2019-10-20 21:46:48.515543
+Best initial sol: 21997966.544244286
+Counter resetting at iteration:2
+iteration: 2best: 21854433.14734259
+Counter resetting at iteration:4
+iteration: 6best: 21820920.029449843
+Counter resetting at iteration:15
+iteration: 21best: 21569332.946847018
+Counter resetting at iteration:19
+iteration: 40best: 21290447.1112582
+Counter resetting at iteration:82
+iteration: 122best: 21194986.3447753
+Counter resetting at iteration:177
+iteration: 299best: 21058907.552839953
+Total iterations: 500
+Best Solution: 21058907.552839953
+Trial run:4
+Time:2019-10-20 22:09:58.667477
+Best initial sol: 22003276.499849416
+Counter resetting at iteration:1
+iteration: 1best: 21922721.860933725
+Counter resetting at iteration:35
+iteration: 36best: 21836481.719790056
+Counter resetting at iteration:10
+iteration: 46best: 21513331.03525266
+Counter resetting at iteration:154
+iteration: 200best: 21432651.58971178
+Counter resetting at iteration:149
+iteration: 349best: 21430297.542595014
+Counter resetting at iteration:16
+iteration: 365best: 21190157.311794784
+Total iterations: 500
+Best Solution: 21190157.311794784
+Configuration4
+Trial run:0
+Time:2019-10-20 22:33:15.217869
+Best initial sol: 21319939.160405423
+Counter resetting at iteration:483
+iteration: 483best: 21171535.966625124
+Total iterations: 500
+Best Solution: 21171535.966625124
+Trial run:1
+Time:2019-10-20 22:34:57.131320
+Best initial sol: 22247452.562539447
+Counter resetting at iteration:10
+iteration: 10best: 21730844.10986032
+Counter resetting at iteration:36
+iteration: 46best: 21649533.774681106
+Counter resetting at iteration:27
+iteration: 73best: 21621705.185137503
+Counter resetting at iteration:11
+iteration: 84best: 21524487.59688022
+Counter resetting at iteration:94
+iteration: 178best: 21435788.958299767
+Counter resetting at iteration:61
+iteration: 239best: 21317013.99504984
+Counter resetting at iteration:254
+iteration: 493best: 21241551.614323486
+Total iterations: 500
+Best Solution: 21241551.614323486
+Trial run:2
+Time:2019-10-20 22:36:39.091420
+Best initial sol: 22062917.780579258
+Counter resetting at iteration:2
+iteration: 2best: 21984936.05268032
+Counter resetting at iteration:4
+iteration: 6best: 21700892.473292995
+Counter resetting at iteration:29
+iteration: 35best: 21645734.433382045
+Counter resetting at iteration:10
+iteration: 45best: 21568426.51361325
+Counter resetting at iteration:1
+iteration: 46best: 21558389.841549117
+Counter resetting at iteration:64
+iteration: 110best: 21498804.9986288
+Counter resetting at iteration:2
+iteration: 112best: 21349648.09611381
+Counter resetting at iteration:15
+iteration: 127best: 20957573.503121898
+Counter resetting at iteration:223
+iteration: 350best: 20600396.038090285
+Total iterations: 500
+Best Solution: 20600396.038090285
+Trial run:3
+Time:2019-10-20 22:38:21.717846
+Best initial sol: 21666304.41614281
+Counter resetting at iteration:1
+iteration: 1best: 21514441.423489843
+Counter resetting at iteration:44
+iteration: 45best: 21460326.375559118
+Counter resetting at iteration:126
+iteration: 171best: 21434839.224659078
+Counter resetting at iteration:112
+iteration: 283best: 21043141.107530784
+Total iterations: 500
+Best Solution: 21043141.107530784
+Trial run:4
+Time:2019-10-20 22:40:03.640452
+Best initial sol: 22024661.705451474
+Counter resetting at iteration:44
+iteration: 44best: 22018539.0310778
+Counter resetting at iteration:8
+iteration: 52best: 21956378.579257987
+Counter resetting at iteration:22
+iteration: 74best: 21887308.146321703
+Counter resetting at iteration:33
+iteration: 107best: 21825485.02933235
+Counter resetting at iteration:8
+iteration: 115best: 21796286.522747073
+Counter resetting at iteration:1
+iteration: 116best: 21517453.735734157
+Counter resetting at iteration:69
+iteration: 185best: 21375170.226491638
+Counter resetting at iteration:43
+iteration: 228best: 21048030.092169303
+Counter resetting at iteration:2
+iteration: 230best: 20510214.52751199
+Total iterations: 500
+Best Solution: 20510214.52751199
+Configuration5
+Trial run:0
+Time:2019-10-20 22:41:45.794638
+Best initial sol: 22030058.106919017
+Counter resetting at iteration:14
+iteration: 14best: 21939293.374280505
+Counter resetting at iteration:32
+iteration: 46best: 21724414.124758963
+Counter resetting at iteration:106
+iteration: 152best: 21652393.10520532
+Counter resetting at iteration:15
+iteration: 167best: 21300397.72999585
+Counter resetting at iteration:27
+iteration: 194best: 21245208.410006765
+Counter resetting at iteration:101
+iteration: 295best: 21119901.93615808
+Total iterations: 500
+Best Solution: 21119901.93615808
+Trial run:1
+Time:2019-10-20 22:43:28.949808
+Best initial sol: 22117525.786206413
+Counter resetting at iteration:9
+iteration: 9best: 22078675.607925724
+Counter resetting at iteration:5
+iteration: 14best: 22070399.270928722
+Counter resetting at iteration:25
+iteration: 39best: 22053849.917994235
+Counter resetting at iteration:1
+iteration: 40best: 21546797.357353467
+Counter resetting at iteration:1
+iteration: 41best: 21530208.478944477
+Counter resetting at iteration:47
+iteration: 88best: 21520142.8849572
+Counter resetting at iteration:242
+iteration: 330best: 21487545.280064743
+Counter resetting at iteration:35
+iteration: 365best: 21255442.11477451
+Total iterations: 500
+Best Solution: 21255442.11477451
+Trial run:2
+Time:2019-10-20 22:45:11.831713
+Best initial sol: 22314839.02726066
+Counter resetting at iteration:2
+iteration: 2best: 22016881.976178315
+Counter resetting at iteration:13
+iteration: 15best: 21770583.68212831
+Counter resetting at iteration:18
+iteration: 33best: 21415270.191108003
+Counter resetting at iteration:75
+iteration: 108best: 21389792.159738604
+Counter resetting at iteration:55
+iteration: 163best: 21259278.608026784
+Counter resetting at iteration:92
+iteration: 255best: 21134725.912749074
+Counter resetting at iteration:223
+iteration: 478best: 21016918.921614636
+Total iterations: 500
+Best Solution: 21016918.921614636
+Trial run:3
+Time:2019-10-20 22:46:54.677568
+Best initial sol: 22272453.571855627
+Counter resetting at iteration:17
+iteration: 17best: 22208205.488318622
+Counter resetting at iteration:1
+iteration: 18best: 21863675.45500937
+Counter resetting at iteration:23
+iteration: 41best: 21686236.4537066
+Counter resetting at iteration:143
+iteration: 184best: 21335868.14832182
+Total iterations: 500
+Best Solution: 21335868.14832182
+Trial run:4
+Time:2019-10-20 22:48:37.680002
+Best initial sol: 21632939.950082723
+Counter resetting at iteration:93
+iteration: 93best: 21602888.92561337
+Counter resetting at iteration:38
+iteration: 131best: 21172613.3122389
+Counter resetting at iteration:285
+iteration: 416best: 20546778.98395872
+Total iterations: 500
+Best Solution: 20546778.98395872
+Configuration6
+Trial run:0
+Time:2019-10-20 22:50:20.291253
+Best initial sol: 22225413.405374255
+Counter resetting at iteration:9
+iteration: 9best: 21751293.627671644
+Counter resetting at iteration:53
+iteration: 62best: 21716910.79926597
+Counter resetting at iteration:146
+iteration: 208best: 21656417.53621968
+Counter resetting at iteration:85
+iteration: 293best: 21379929.18139907
+Counter resetting at iteration:69
+iteration: 362best: 21126573.220032245
+Total iterations: 500
+Best Solution: 21126573.220032245
+Trial run:1
+Time:2019-10-20 23:13:32.102105
+Best initial sol: 22073295.979672536
+Counter resetting at iteration:1
+iteration: 1best: 21308691.600415267
+Counter resetting at iteration:276
+iteration: 277best: 21307539.361812558
+Total iterations: 500
+Best Solution: 21307539.361812558
+Trial run:2
+Time:2019-10-20 23:36:47.105577
+Best initial sol: 21488585.992896575
+Counter resetting at iteration:13
+iteration: 13best: 21295548.90879074
+Counter resetting at iteration:76
+iteration: 89best: 21117367.657817405
+Counter resetting at iteration:116
+iteration: 205best: 20834194.093904454
+Total iterations: 500
+Best Solution: 20834194.093904454
+Trial run:3
+Time:2019-10-21 00:00:01.908841
+Best initial sol: 22337385.99827672
+Counter resetting at iteration:0
+iteration: 0best: 21192925.458017983
+Total iterations: 500
+Best Solution: 21192925.458017983
+Trial run:4
+Time:2019-10-21 00:23:16.909621
+Best initial sol: 22042765.73538931
+Counter resetting at iteration:11
+iteration: 11best: 21860140.213177774
+Counter resetting at iteration:58
+iteration: 69best: 21247117.874849554
+Counter resetting at iteration:153
+iteration: 222best: 21232825.538485546
+Total iterations: 500
+Best Solution: 21232825.538485546
+***********Running Standard Setting Population=50 Mutation=0.3 Iterations=500********
+Configuration1
+Trial run:0
+Time:2019-10-21 00:46:30.712630
+Best initial sol: 22326576.166772377
+Counter resetting at iteration:0
+iteration: 0best: 22297657.988240242
+Counter resetting at iteration:1
+iteration: 1best: 22265319.666248336
+Counter resetting at iteration:3
+iteration: 4best: 22203865.195490386
+Counter resetting at iteration:7
+iteration: 11best: 21952108.070450526
+Counter resetting at iteration:0
+iteration: 11best: 21725094.51928237
+Counter resetting at iteration:37
+iteration: 48best: 21055207.54131665
+Counter resetting at iteration:176
+iteration: 224best: 21052515.6667437
+Counter resetting at iteration:110
+iteration: 334best: 21031572.06448197
+Total iterations: 500
+Best Solution: 21031572.06448197
+Trial run:1
+Time:2019-10-21 00:58:05.202389
+Best initial sol: 22332559.262685284
+Counter resetting at iteration:7
+iteration: 7best: 21010029.116863202
+Counter resetting at iteration:359
+iteration: 366best: 20792551.9193382
+Total iterations: 500
+Best Solution: 20792551.9193382
+Configuration2
+Trial run:0
+Time:2019-10-21 01:09:37.818680
+Best initial sol: 22539918.47992257
+Counter resetting at iteration:2
+iteration: 2best: 22442959.570653822
+Counter resetting at iteration:3
+iteration: 5best: 22278453.67668646
+Counter resetting at iteration:1
+iteration: 6best: 21788844.60966158
+Counter resetting at iteration:3
+iteration: 9best: 21384218.186153576
+Counter resetting at iteration:447
+iteration: 456best: 21285893.091190208
+Total iterations: 500
+Best Solution: 21285893.091190208
+Trial run:1
+Time:2019-10-21 01:10:22.584286
+Best initial sol: 21754260.423023723
+Counter resetting at iteration:24
+iteration: 24best: 21581033.415987626
+Counter resetting at iteration:17
+iteration: 41best: 21199377.229760222
+Total iterations: 500
+Best Solution: 21199377.229760222
+Configuration3
+Trial run:0
+Time:2019-10-21 01:11:07.480638
+Best initial sol: 21689767.11146355
+Counter resetting at iteration:5
+iteration: 5best: 21544845.249708302
+Counter resetting at iteration:3
+iteration: 8best: 21495391.426516443
+Counter resetting at iteration:78
+iteration: 86best: 21455314.575345453
+Counter resetting at iteration:142
+iteration: 228best: 21256291.61121588
+Total iterations: 500
+Best Solution: 21256291.61121588
+Trial run:1
+Time:2019-10-21 01:22:38.570401
+Best initial sol: 21143934.73950848
+Counter resetting at iteration:292
+iteration: 292best: 20910826.46429522
+Counter resetting at iteration:140
+iteration: 432best: 20814559.841962405
+Total iterations: 500
+Best Solution: 20814559.841962405
+Configuration4
+Trial run:0
+Time:2019-10-21 01:34:17.456267
+Best initial sol: 22191248.96745366
+Counter resetting at iteration:0
+iteration: 0best: 21804812.602039356
+Counter resetting at iteration:2
+iteration: 2best: 21685199.177928574
+Counter resetting at iteration:26
+iteration: 28best: 21571964.14474531
+Counter resetting at iteration:12
+iteration: 40best: 21061942.85711942
+Counter resetting at iteration:335
+iteration: 375best: 21055318.908614904
+Total iterations: 500
+Best Solution: 21055318.908614904
+Trial run:1
+Time:2019-10-21 01:35:05.798473
+Best initial sol: 22082016.52489116
+Counter resetting at iteration:0
+iteration: 0best: 21610241.6671049
+Counter resetting at iteration:44
+iteration: 44best: 21527737.34803265
+Counter resetting at iteration:5
+iteration: 49best: 21390289.080988284
+Counter resetting at iteration:116
+iteration: 165best: 21242698.991111144
+Counter resetting at iteration:33
+iteration: 198best: 21163293.11782824
+Total iterations: 500
+Best Solution: 21163293.11782824
+Configuration5
+Trial run:0
+Time:2019-10-21 01:35:53.696873
+Best initial sol: 22460691.012111776
+Counter resetting at iteration:0
+iteration: 0best: 22404935.59637482
+Counter resetting at iteration:2
+iteration: 2best: 22032529.644365136
+Counter resetting at iteration:5
+iteration: 7best: 21945482.169331428
+Counter resetting at iteration:29
+iteration: 36best: 21823750.6690522
+Counter resetting at iteration:4
+iteration: 40best: 21785220.841603898
+Counter resetting at iteration:13
+iteration: 53best: 21734539.670967266
+Counter resetting at iteration:21
+iteration: 74best: 21391260.381966233
+Counter resetting at iteration:79
+iteration: 153best: 21346748.653202906
+Counter resetting at iteration:119
+iteration: 272best: 21322957.965748955
+Counter resetting at iteration:7
+iteration: 279best: 21197633.787826825
+Total iterations: 500
+Best Solution: 21197633.787826825
+Trial run:1
+Time:2019-10-21 01:36:42.576072
+Best initial sol: 22480658.058383785
+Counter resetting at iteration:8
+iteration: 8best: 22014902.582232945
+Counter resetting at iteration:10
+iteration: 18best: 21943739.028415173
+Counter resetting at iteration:10
+iteration: 28best: 21928234.919201765
+Counter resetting at iteration:20
+iteration: 48best: 21546566.26826924
+Counter resetting at iteration:8
+iteration: 56best: 21156905.862468574
+Counter resetting at iteration:308
+iteration: 364best: 21137233.351718597
+Total iterations: 500
+Best Solution: 21137233.351718597
+Configuration6
+Trial run:0
+Time:2019-10-21 01:37:31.320116
+Best initial sol: 22119902.291823898
+Counter resetting at iteration:3
+iteration: 3best: 22018436.722004514
+Counter resetting at iteration:1
+iteration: 4best: 21584651.328910723
+Counter resetting at iteration:35
+iteration: 39best: 21359255.89800713
+Counter resetting at iteration:29
+iteration: 68best: 21039294.630800657
+Counter resetting at iteration:39
+iteration: 107best: 21034796.748871826
+Counter resetting at iteration:274
+iteration: 381best: 20954703.48671361
+Total iterations: 500
+Best Solution: 20954703.48671361
+Trial run:1
+Time:2019-10-21 01:49:11.880462
+Best initial sol: 22255555.222773444
+Counter resetting at iteration:6
+iteration: 6best: 21402596.849854585
+Counter resetting at iteration:39
+iteration: 45best: 21252505.261349816
+Counter resetting at iteration:47
+iteration: 92best: 20838820.718651716
+Total iterations: 500
+Best Solution: 20838820.718651716

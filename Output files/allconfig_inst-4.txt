@@ -1,0 +1,401 @@
+Configuration :1  File: inst-4.tsp 
+Trial run1:
+Time: 2019-10-20 10:12:13.977832
+Best initial sol:  22089656.782984156
+Counter resetting at iteration: 31
+iteration:  31 best:  21796360.828526314
+Counter resetting at iteration: 4
+iteration:  35 best:  21372321.203195717
+Counter resetting at iteration: 104
+iteration:  139 best:  21282124.081168763
+Total iterations:  500
+Best Solution:  21282124.081168763
+Trial run2:
+Time: 2019-10-20 10:42:42.615176
+Best initial sol:  21885329.242375378
+Counter resetting at iteration: 34
+iteration:  34 best:  21466696.5797402
+Counter resetting at iteration: 25
+iteration:  59 best:  21424125.200754013
+Counter resetting at iteration: 195
+iteration:  254 best:  21328233.34136512
+Total iterations:  500
+Best Solution:  21328233.34136512
+Trial run3:
+Time: 2019-10-20 11:13:45.908803
+Best initial sol:  21968946.134484045
+Counter resetting at iteration: 59
+iteration:  59 best:  21938731.547087926
+Counter resetting at iteration: 24
+iteration:  83 best:  21624766.724082306
+Counter resetting at iteration: 30
+iteration:  113 best:  21572375.455940314
+Counter resetting at iteration: 86
+iteration:  199 best:  21031438.13486926
+Total iterations:  500
+Best Solution:  21031438.13486926
+Trial run4:
+Time: 2019-10-20 14:20:59.587048
+Best initial sol:  22115320.93870597
+Counter resetting at iteration: 4
+iteration:  4 best:  22064722.740769133
+Counter resetting at iteration: 10
+iteration:  14 best:  21882583.01629669
+Counter resetting at iteration: 8
+iteration:  22 best:  21620160.916836977
+Counter resetting at iteration: 132
+iteration:  154 best:  21354821.204064064
+Total iterations:  500
+Best Solution:  21354821.204064064
+Trial run5:
+Time: 2019-10-20 14:54:46.807342
+Best initial sol:  21794984.700102117
+Counter resetting at iteration: 63
+iteration:  63 best:  21720372.40354823
+Counter resetting at iteration: 14
+iteration:  77 best:  21521523.09804603
+Counter resetting at iteration: 236
+iteration:  313 best:  21508724.021633223
+Counter resetting at iteration: 89
+iteration:  402 best:  21507955.504102793
+Total iterations:  500
+Best Solution:  21507955.504102793
+Configuration :2  File: inst-4.tsp 
+Trial run1:
+Time: 2019-10-20 15:43:10.992786
+Best initial sol:  22211628.749075707
+Counter resetting at iteration: 10
+iteration:  10 best:  21825067.44709897
+Counter resetting at iteration: 8
+iteration:  18 best:  21651719.079641923
+Counter resetting at iteration: 50
+iteration:  68 best:  21479151.927736826
+Total iterations:  500
+Best Solution:  21479151.927736826
+Trial run2:
+Time: 2019-10-20 15:45:21.296800
+Best initial sol:  22053913.126258414
+Counter resetting at iteration: 2
+iteration:  2 best:  21925170.91855715
+Counter resetting at iteration: 15
+iteration:  17 best:  21851634.30816355
+Counter resetting at iteration: 26
+iteration:  43 best:  21770905.36707311
+Counter resetting at iteration: 60
+iteration:  103 best:  21718054.030736864
+Counter resetting at iteration: 51
+iteration:  154 best:  21570189.583503824
+Counter resetting at iteration: 32
+iteration:  186 best:  21552467.27588866
+Counter resetting at iteration: 175
+iteration:  361 best:  21544619.915254116
+Counter resetting at iteration: 107
+iteration:  468 best:  21521566.767786555
+Total iterations:  500
+Best Solution:  21521566.767786555
+Trial run3:
+Time: 2019-10-20 15:47:29.250024
+Best initial sol:  21557447.192722104
+Counter resetting at iteration: 110
+iteration:  110 best:  21531241.184496786
+Counter resetting at iteration: 157
+iteration:  267 best:  21422470.92824322
+Total iterations:  500
+Best Solution:  21422470.92824322
+Trial run4:
+Time: 2019-10-20 15:49:37.126112
+Best initial sol:  21843560.020801473
+Counter resetting at iteration: 11
+iteration:  11 best:  21767360.51260773
+Counter resetting at iteration: 4
+iteration:  15 best:  21473246.8414372
+Counter resetting at iteration: 19
+iteration:  34 best:  21426407.8297272
+Counter resetting at iteration: 87
+iteration:  121 best:  21068932.20183212
+Counter resetting at iteration: 55
+iteration:  176 best:  20778283.526327245
+Counter resetting at iteration: 255
+iteration:  431 best:  20586766.160701063
+Total iterations:  500
+Best Solution:  20586766.160701063
+Trial run5:
+Time: 2019-10-20 16:33:16.697832
+Best initial sol:  22086125.62459342
+Counter resetting at iteration: 3
+iteration:  3 best:  21980188.51482247
+Counter resetting at iteration: 34
+iteration:  37 best:  21482888.099602535
+Counter resetting at iteration: 20
+iteration:  57 best:  21365638.283549692
+Counter resetting at iteration: 170
+iteration:  227 best:  21329271.109145127
+Counter resetting at iteration: 135
+iteration:  362 best:  21311403.116033595
+Counter resetting at iteration: 11
+iteration:  373 best:  21253777.601751618
+Total iterations:  500
+Best Solution:  21253777.601751618
+Configuration :3  File: inst-4.tsp 
+Trial run1:
+Time: 2019-10-20 16:35:09.145566
+Best initial sol:  22318778.61986558
+Counter resetting at iteration: 0
+iteration:  0 best:  21754351.279648237
+Counter resetting at iteration: 3
+iteration:  3 best:  21418969.445115395
+Counter resetting at iteration: 124
+iteration:  127 best:  21331018.647110257
+Counter resetting at iteration: 136
+iteration:  263 best:  21150749.509073004
+Counter resetting at iteration: 147
+iteration:  410 best:  21027384.674898364
+Total iterations:  500
+Best Solution:  21027384.674898364
+Trial run2:
+Time: 2019-10-20 17:01:54.813737
+Best initial sol:  22149087.283428196
+Counter resetting at iteration: 2
+iteration:  2 best:  21826192.758280266
+Counter resetting at iteration: 9
+iteration:  11 best:  21476537.23498549
+Counter resetting at iteration: 184
+iteration:  195 best:  20708143.37046383
+Total iterations:  500
+Best Solution:  20708143.37046383
+Trial run3:
+Time: 2019-10-20 17:30:49.532776
+Best initial sol:  22384518.891138
+Counter resetting at iteration: 0
+iteration:  0 best:  22377655.26517888
+Counter resetting at iteration: 1
+iteration:  1 best:  21755343.993222233
+Counter resetting at iteration: 20
+iteration:  21 best:  21448469.306841165
+Counter resetting at iteration: 384
+iteration:  405 best:  21271688.714864533
+Total iterations:  500
+Best Solution:  21271688.714864533
+Trial run4:
+Time: 2019-10-20 17:56:24.067107
+Best initial sol:  21997966.544244286
+Counter resetting at iteration: 2
+iteration:  2 best:  21854433.14734259
+Counter resetting at iteration: 4
+iteration:  6 best:  21820920.029449843
+Counter resetting at iteration: 15
+iteration:  21 best:  21569332.946847018
+Counter resetting at iteration: 19
+iteration:  40 best:  21290447.1112582
+Counter resetting at iteration: 82
+iteration:  122 best:  21194986.3447753
+Counter resetting at iteration: 177
+iteration:  299 best:  21058907.552839953
+Total iterations:  500
+Best Solution:  21058907.552839953
+Trial run5:
+Time: 2019-10-20 18:22:38.883164
+Best initial sol:  22003276.499849416
+Counter resetting at iteration: 1
+iteration:  1 best:  21922721.860933725
+Counter resetting at iteration: 35
+iteration:  36 best:  21836481.719790056
+Counter resetting at iteration: 10
+iteration:  46 best:  21513331.03525266
+Counter resetting at iteration: 154
+iteration:  200 best:  21432651.58971178
+Counter resetting at iteration: 149
+iteration:  349 best:  21430297.542595014
+Counter resetting at iteration: 16
+iteration:  365 best:  21190157.311794784
+Total iterations:  500
+Best Solution:  21190157.311794784
+Configuration :4  File: inst-4.tsp 
+Trial run1:
+Time: 2019-10-20 18:50:50.536565
+Best initial sol:  21319939.160405423
+Counter resetting at iteration: 483
+iteration:  483 best:  21171535.966625124
+Total iterations:  500
+Best Solution:  21171535.966625124
+Trial run2:
+Time: 2019-10-20 18:53:00.299196
+Best initial sol:  22247452.562539447
+Counter resetting at iteration: 10
+iteration:  10 best:  21730844.10986032
+Counter resetting at iteration: 36
+iteration:  46 best:  21649533.774681106
+Counter resetting at iteration: 27
+iteration:  73 best:  21621705.185137503
+Counter resetting at iteration: 11
+iteration:  84 best:  21524487.59688022
+Counter resetting at iteration: 94
+iteration:  178 best:  21435788.958299767
+Counter resetting at iteration: 61
+iteration:  239 best:  21317013.99504984
+Counter resetting at iteration: 254
+iteration:  493 best:  21241551.614323486
+Total iterations:  500
+Best Solution:  21241551.614323486
+Trial run3:
+Time: 2019-10-20 18:55:19.973231
+Best initial sol:  22062917.780579258
+Counter resetting at iteration: 2
+iteration:  2 best:  21984936.05268032
+Counter resetting at iteration: 4
+iteration:  6 best:  21700892.473292995
+Counter resetting at iteration: 29
+iteration:  35 best:  21645734.433382045
+Counter resetting at iteration: 10
+iteration:  45 best:  21568426.51361325
+Counter resetting at iteration: 1
+iteration:  46 best:  21558389.841549117
+Counter resetting at iteration: 64
+iteration:  110 best:  21498804.9986288
+Counter resetting at iteration: 2
+iteration:  112 best:  21349648.09611381
+Counter resetting at iteration: 15
+iteration:  127 best:  20957573.503121898
+Counter resetting at iteration: 223
+iteration:  350 best:  20600396.038090285
+Total iterations:  500
+Best Solution:  20600396.038090285
+Trial run4:
+Time: 2019-10-20 18:57:35.751652
+Best initial sol:  21666304.41614281
+Counter resetting at iteration: 1
+iteration:  1 best:  21514441.423489843
+Counter resetting at iteration: 44
+iteration:  45 best:  21460326.375559118
+Counter resetting at iteration: 126
+iteration:  171 best:  21434839.224659078
+Counter resetting at iteration: 112
+iteration:  283 best:  21043141.107530784
+Total iterations:  500
+Best Solution:  21043141.107530784
+Trial run5:
+Time: 2019-10-20 18:59:53.432701
+Best initial sol:  22024661.705451474
+Counter resetting at iteration: 44
+iteration:  44 best:  22018539.0310778
+Counter resetting at iteration: 8
+iteration:  52 best:  21956378.579257987
+Counter resetting at iteration: 22
+iteration:  74 best:  21887308.146321703
+Counter resetting at iteration: 33
+iteration:  107 best:  21825485.02933235
+Counter resetting at iteration: 8
+iteration:  115 best:  21796286.522747073
+Counter resetting at iteration: 1
+iteration:  116 best:  21517453.735734157
+Counter resetting at iteration: 69
+iteration:  185 best:  21375170.226491638
+Counter resetting at iteration: 43
+iteration:  228 best:  21048030.092169303
+Counter resetting at iteration: 2
+iteration:  230 best:  20510214.52751199
+Total iterations:  500
+Best Solution:  20510214.52751199
+Configuration :5  File: inst-4.tsp 
+Trial run1:
+Time: 2019-10-20 19:02:06.987221
+Best initial sol:  22030058.106919017
+Counter resetting at iteration: 14
+iteration:  14 best:  21939293.374280505
+Counter resetting at iteration: 32
+iteration:  46 best:  21724414.124758963
+Counter resetting at iteration: 106
+iteration:  152 best:  21652393.10520532
+Counter resetting at iteration: 15
+iteration:  167 best:  21300397.72999585
+Counter resetting at iteration: 27
+iteration:  194 best:  21245208.410006765
+Counter resetting at iteration: 101
+iteration:  295 best:  21119901.93615808
+Total iterations:  500
+Best Solution:  21119901.93615808
+Trial run2:
+Time: 2019-10-20 19:04:20.790303
+Best initial sol:  22117525.786206413
+Counter resetting at iteration: 9
+iteration:  9 best:  22078675.607925724
+Counter resetting at iteration: 5
+iteration:  14 best:  22070399.270928722
+Counter resetting at iteration: 25
+iteration:  39 best:  22053849.917994235
+Counter resetting at iteration: 1
+iteration:  40 best:  21546797.357353467
+Counter resetting at iteration: 1
+iteration:  41 best:  21530208.478944477
+Counter resetting at iteration: 47
+iteration:  88 best:  21520142.8849572
+Counter resetting at iteration: 242
+iteration:  330 best:  21487545.280064743
+Counter resetting at iteration: 35
+iteration:  365 best:  21255442.11477451
+Total iterations:  500
+Best Solution:  21255442.11477451
+Trial run3:
+Time: 2019-10-20 19:06:35.542109
+Best initial sol:  22314839.02726066
+Counter resetting at iteration: 2
+iteration:  2 best:  22016881.976178315
+Counter resetting at iteration: 13
+iteration:  15 best:  21770583.68212831
+Counter resetting at iteration: 18
+iteration:  33 best:  21415270.191108003
+Counter resetting at iteration: 75
+iteration:  108 best:  21389792.159738604
+Counter resetting at iteration: 55
+iteration:  163 best:  21259278.608026784
+Counter resetting at iteration: 92
+iteration:  255 best:  21134725.912749074
+Counter resetting at iteration: 223
+iteration:  478 best:  21016918.921614636
+Total iterations:  500
+Best Solution:  21016918.921614636
+Trial run4:
+Time: 2019-10-20 19:08:59.521897
+Best initial sol:  22272453.571855627
+Counter resetting at iteration: 17
+iteration:  17 best:  22208205.488318622
+Counter resetting at iteration: 1
+iteration:  18 best:  21863675.45500937
+Counter resetting at iteration: 23
+iteration:  41 best:  21686236.4537066
+Counter resetting at iteration: 143
+iteration:  184 best:  21335868.14832182
+Total iterations:  500
+Best Solution:  21335868.14832182
+Trial run5:
+Time: 2019-10-20 19:11:17.242159
+Best initial sol:  21632939.950082723
+Counter resetting at iteration: 93
+iteration:  93 best:  21602888.92561337
+Counter resetting at iteration: 38
+iteration:  131 best:  21172613.3122389
+Counter resetting at iteration: 285
+iteration:  416 best:  20546778.98395872
+Total iterations:  500
+Best Solution:  20546778.98395872
+Configuration :6  File: inst-4.tsp 
+Trial run1:
+Time: 2019-10-20 19:13:41.236984
+Best initial sol:  22225413.405374255
+Counter resetting at iteration: 9
+iteration:  9 best:  21751293.627671644
+Counter resetting at iteration: 53
+iteration:  62 best:  21716910.79926597
+Counter resetting at iteration: 146
+iteration:  208 best:  21656417.53621968
+Counter resetting at iteration: 85
+iteration:  293 best:  21379929.18139907
+Counter resetting at iteration: 69
+iteration:  362 best:  21126573.220032245
+Total iterations:  500
+Best Solution:  21126573.220032245
+Trial run2:
+Time: 2019-10-20 19:44:13.808198
+Best initial sol:  22073295.979672536
+Counter resetting at iteration: 1
+iteration:  1 best:  21308691.600415267

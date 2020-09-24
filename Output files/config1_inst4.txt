@@ -1,0 +1,25 @@
+Trial run1:
+Time: 2019-10-20 05:28:15.956822
+Best initial sol:  22089656.782984156
+Total iterations:  150
+Best Solution:  22089656.782984156
+Trial run2:
+Time: 2019-10-20 05:58:20.559997
+Best initial sol:  22040689.94018951
+Total iterations:  150
+Best Solution:  22040689.94018951
+Trial run3:
+Time: 2019-10-20 06:30:59.539417
+Best initial sol:  20770215.736700907
+Total iterations:  150
+Best Solution:  20770215.736700907
+Trial run4:
+Time: 2019-10-20 07:02:10.271728
+Best initial sol:  21757583.32477093
+Total iterations:  150
+Best Solution:  21757583.32477093
+Trial run5:
+Time: 2019-10-20 07:27:13.487945
+Best initial sol:  21924758.5029305
+Total iterations:  150
+Best Solution:  21924758.5029305

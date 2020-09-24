@@ -1,0 +1,26 @@
+Heuristic PMX Reciprocal Mutation Stochastic Universal Sampling
+Trial run:1
+Time: 2019-10-20 03:51:40.470179
+Best initial sol:  3900881.2900531995
+Total iterations:  500
+Best Solution:  3900881.2900531995
+Trial run:2
+Time: 2019-10-20 03:55:44.129401
+Best initial sol:  3900881.2900531995
+Total iterations:  500
+Best Solution:  3900881.2900531995
+Trial run:3
+Time: 2019-10-20 04:02:17.585490
+Best initial sol:  3885429.2345476714
+Total iterations:  500
+Best Solution:  3885429.2345476714
+Trial run:4
+Time: 2019-10-20 04:07:59.603585
+Best initial sol:  3928018.0768238595
+Total iterations:  500
+Best Solution:  3928018.0768238595
+Trial run:5
+Time: 2019-10-20 04:13:39.174726
+Best initial sol:  3900881.2900531995
+Total iterations:  500
+Best Solution:  3900881.2900531995

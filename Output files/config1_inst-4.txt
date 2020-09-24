@@ -1,0 +1,6 @@
+
+Running Standard Setting Population=100 Mutation=0.1 Iterations=500
+Configuration1
+Trial run:0
+Time:2019-10-20 19:33:11.158189
+Best initial sol: 22089656.782984156
